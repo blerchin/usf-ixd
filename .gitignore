@@ -1,4 +1,5 @@
 etc
+.env
 .DS_Store
-test/autotest
+test/autograder
 node_modules

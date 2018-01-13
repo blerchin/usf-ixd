@@ -3,10 +3,6 @@ sudo: required
 services:
   - docker
 
-before_install:
-  - pip install --user awscli
-  - sudo apt-get install -y jq
-
 script:
-  - docker build . -f test/Dockerfile -t usf-ixd
+  - docker build . -t usf-ixd
   - docker run -e GITHUB_USERNAME -e GITHUB_ACCESS_TOKEN usf-ixd
