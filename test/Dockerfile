@@ -19,7 +19,4 @@ RUN npm install
 COPY src src
 COPY test test
 
-ARG GITHUB_USERNAME
-ARG GITHUB_ACCESS_TOKEN
-
 CMD ["npm", "test"]
