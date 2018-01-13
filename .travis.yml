@@ -8,5 +8,5 @@ before_install:
   - sudo apt-get install -y jq
 
 script:
-  - docker build . -f test/Dockerfile -t usf-ixd
+  - docker build . -f test/Dockerfile -t usf-ixd --build-arg GITHUB_USERNAME=${GITHUB_USERNAME} GITHUB_ACCESS_TOKEN=${GITHUB_ACCESS_TOKEN}
   - docker run usf-ixd
