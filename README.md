@@ -26,8 +26,8 @@ By the end of the semester, students will be expected to:
 5. Explain the significance of the key developments in the history of digital media, with a focus on how the precursors to interactivity lead to current contemporary practices, through participation in group discussions and writing of final project text.
 
 ## Supplies
-`required` Elegoo UNO Project Super Starter Kit with Tutorial for Arduino https://www.amazon.com/gp/product/B01D8KOZF4/
-`recommended` Multimeter with continuity tester (you can find this at any hardware store, or on Amazon)
+- `required` Elegoo UNO Project Super Starter Kit with Tutorial for Arduino https://www.amazon.com/gp/product/B01D8KOZF4/
+- `recommended` Multimeter with continuity tester (you can find this at any hardware store, or on Amazon)
 https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B01N9QW620
 
 ## Required Texts
