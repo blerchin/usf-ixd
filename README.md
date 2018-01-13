@@ -1,4 +1,7 @@
 # ART 385 - Interaction Design
+
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+
 ## Fall 2018
 ## University of San Francisco
 
