@@ -28,12 +28,43 @@ By the end of the semester, students will be expected to:
 
 5. Explain the significance of the key developments in the history of digital media, with a focus on how the precursors to interactivity lead to current contemporary practices, through participation in group discussions and writing of final project text.
 
-## Supplies
+## Resources
+
+#### Supplies
 - `required` Elegoo UNO Project Super Starter Kit with Tutorial for Arduino https://www.amazon.com/gp/product/B01D8KOZF4/
 - `recommended` Multimeter with continuity tester (you can find this at any hardware store, or on Amazon)
 https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B01N9QW620
 
-## Required Texts
-- [The Framer Book](https://framerbook.com/), Tes Mat, 2017.
+#### Required Texts
+- _[The Framer Book](https://framerbook.com/)_, Tes Mat, 2017.
 (email <tes@framerbook.com> a photo of your student ID for 50% off)
-- [Learn Electronics with Arduino](https://www.amazon.com/Learn-Electronics-Arduino-Illustrated-Beginners/dp/1680453742), Jody Culkin and Eric Hagan, Maker Media, 2017
+- _[Learn Electronics with Arduino](https://www.amazon.com/Learn-Electronics-Arduino-Illustrated-Beginners/dp/1680453742)_, Jody Culkin and Eric Hagan, Maker Media, 2017
+
+#### E-Learning
+- [Interaction Design Fundamentals](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html), Lynda.com
+- [CoffeeScript Language Reference](http://coffeescript.org/#language)
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson (@getify). Authoritative resource on Javascript nitty-gritty
+
+#### Further Readings
+- _Responsive Environments: Architecture, Art and Design_, Lucy Bullivant, V&A Publications, 2006
+- _Human Computer Interaction_, Dix et. al., Pearson, 2004
+- _Design Noir: The Secret Life of Electronic Objects_, Anthony Dunne and Fiona Raby, 2001
+- _Speculative Everything_, Anthony Dunne and Fiona Raby, MIT Press, 2013
+- _Hooked: How to Build Habit-Forming Products_, Nir Eyal, Portfolio/Penguin, 2014
+- _Making Things Talk: Practical Methods for Connecting Phisical Objects_, Tom Igoe, Make, 2007
+- _Mapping Experiences_, Jim Kalbach, O'Reilly Media, 2016
+- _Universal Principles of Design_, Lidwell et. al., Rockport, 2003
+- _Getting Started in Electronics_, Forrest M. Mimms III, 1983
+- _Designing Interactions_, Bill Moggridge, MIT Press, 2007
+- _Programming Arduino: Getting Started with Sketches_, Simon Monk, McGraw-Hill, 2016
+- _The Design of Everyday Things_, Don Norman, 1988
+- _Form + Code_, Reas et. al., Princeton, 2010
+
+## Structure
+This studio course will include discussion/workshop sessions, tutorials, and critique sessions. We will also make time for one-on-one meetings to review your project proposals as you work towards your final project for this course. In general, here’s how the course days will be broken down:
+
+|Mondays| Wednesdays|
+|-------|-----------|
+|Readings due; Project planning due | Exercises Due |
+|Lectures + tutorials on new material; Discussions | Work time |
+|In-class practice | Research Presentations |
