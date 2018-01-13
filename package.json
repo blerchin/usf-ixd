@@ -20,8 +20,9 @@
   },
   "homepage": "https://github.com/blerchin/usf-ixd#readme",
   "dependencies": {
+    "app-module-path": "2.2.0",
     "coffee-register": "0.1.3",
-    "coffee-script": "1.12.7",
+    "coffeescript": "2.1.1",
     "mocha": "4.1.0",
     "should": "13.2.1",
     "should-sinon": "0.0.6",

@@ -1,6 +1,8 @@
 require('should')
 require('should-sinon')
 require('coffee-register')
+require('app-module-path').addPath(__dirname + '../');
+
 const sinon = require('sinon')
 
 global.sinonSandbox = sinon.sandbox.create();

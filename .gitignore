@@ -1,5 +1,4 @@
 etc
 .DS_Store
-.env
-test/src
+test/autotest
 node_modules

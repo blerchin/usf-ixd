@@ -1,12 +1,13 @@
-FROM ubuntu:16.04
+FROM debian:jessie
 
-RUN curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+RUN apt-get -qq update \
+  && DEBIAN_FRONTEND=noninteractive apt-get install -y curl apt-utils
 
-RUN apt-get update && apt-get install -y --no-install-recommends \
-  build-essential \
-  curl \
-  unzip \
+RUN curl -sL https://deb.nodesource.com/setup_6.x | bash -
+
+RUN apt-get -qq update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
   nodejs \
+  build-essential \
   && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
@@ -15,4 +16,7 @@ COPY package.json package.json
 
 RUN npm install
 
-RUN curl -L --strip-components=1 https://api.github.com/repos/usf-ixd/usf-ixd-tests/tarball | tar -xzC test
+COPY src src
+COPY test test
+
+CMD ["npm", "test"]

@@ -1,5 +1,5 @@
 --reporter spec
 --ui bdd
 --colors
---compilers coffee:coffee-script
+--compilers coffee:coffeescript
 test/setup.js
