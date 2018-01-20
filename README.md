@@ -2,12 +2,12 @@
 
 [![Build Status](https://travis-ci.com/usf-ixd/usf-ixd.svg?token=LKAyuftmorXjAPyN1Qyx&branch=master)](https://travis-ci.com/usf-ixd/usf-ixd)
 
-### Fall 2018
-### University of San Francisco
+### University of San Francisco | Fall 2018
 
-##### Course type: upper division studio elective
-##### Prerequisites: Digital Literacy
-##### Credits: 4
+#### Course type: upper division studio elective
+#### Prerequisites: Digital Literacy
+#### Credits: 4
+
 
 #### Course Rationale
 The course Interaction Design will serve as an upper division studio elective in the newly expanded interdisciplinary Design curriculum.  This curriculum will offer students a comprehensive design education by providing them fluency with what we call design’s Seven Pillars of Learning: Design Process, Design Research, Digital Literacy, Design Production, Design History, Design Theory/Critical Thinking, and Design Leadership.  Interaction Design will advance student’s understanding of Design Process, Design Production, and Digital Literacy as they pertain to the practice of creating advanced interactive works and programming structures, and will provide students with advanced experience in Design Theory/Critical Thinking and Design Leadership.
@@ -63,8 +63,30 @@ https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B0
 ## Structure
 This studio course will include discussion/workshop sessions, tutorials, and critique sessions. We will also make time for one-on-one meetings to review your project proposals as you work towards your final project for this course. In general, here’s how the course days will be broken down:
 
-|Mondays| Wednesdays|
+| Mondays | Wednesdays |
 |-------|-----------|
-|Readings due; Project planning due | Exercises Due |
-|Lectures + tutorials on new material; Discussions | Work time |
-|In-class practice | Research Presentations |
+| Readings due; Project planning due | Exercises Due |
+| Lectures + Tutorials | Work time |
+| Activities + Discussions | Research presentations |
+
+## Schedule
+#### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
+#### All assigments are due at the start of class.
+
+### Week 1: Playfulness
+#### Jan 22 / 24
+| Monday                            | Wednesday                                  |
+|:----------------------------------|:-------------------------------------------|
+| Introductions                     | Work on Exercise 1: Conway's Game of Life  |
+| Syllabus + Ground Rules           |                                            |
+| Intro to Framer                   | Research Presentation #1: *BL*             |
+| Activity: Interaction Relabelling | Assign Research Topics                     |
+
+### Week 2: Habituation
+#### Jan 29 / 31
+| Monday                            | Wednesday                                  |
+|:----------------------------------|:-------------------------------------------|
+| **DUE:** Reading Response: Verplank, Norman | **DUE:** Excercise 1 _(This is graded Pass/Fail. If you turn it in, you will get 100%.)_|
+| Assign Research Topics            | Pair on Exercise 2: Social Feed            |
+| Demo: Creating Flows in Framer    |                                            |
+| Discuss readings                  | Research Presentation #2                   |
