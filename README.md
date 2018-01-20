@@ -73,7 +73,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
 #### All assigments are due at the start of class.
 
-## Unit 1: 2D Prototyping
+## Unit A: 2D Prototyping
 ### Week 1: Affordances
 | Monday Jan 22                     | Wednesday Jan 24                           |
 |:----------------------------------|:-------------------------------------------|
@@ -100,31 +100,41 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 ### Week 4: Consistency
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Responsee:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
+| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
 | Discuss readings                       | Work time                                  |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
 ### Week 5: Efficiency
-| Monday Feb 12                          | Wednesday Feb 14                           |
+| Monday Feb 19                          | Wednesday Feb 21                           |
 |:---------------------------------------|:-------------------------------------------|
 | **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
 |                                        | Critique                                   |
-|                                        | Research Presentation #5                   |
+|                                        |                                            |
 
-## Unit 2: Physical Computing
+## Unit B: Physical Computing
 
 ### Week 6: Tangibility
+| Monday Feb 26                          | Wednesday Feb 28                           |
+|:---------------------------------------|:-------------------------------------------|
+| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation #5 |
+| Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
+| Demo: Basic electronics with Arduino   |                                            |
 
 ### Week 7: Criticality
+| Monday Mar 5                           | Wednesday Mar 7                            |
+|:---------------------------------------|:-------------------------------------------|
+| Introduce Assigment 2                  | **DUE: Exercise #3**                       |
+| Demo: Human interfaces with arduino    | Research presentation #6                   |
+| Work time                              | Work time                                  |
 
-### Week 8: Spring Break 🏝
-No class
+### Week 8: Spring Break
+🏝 No class 🏝
 
 ### Week 9: Emotionality
 
 ### Week 10: Sensing
 
-## Unit 3: User Research & UX Design
+## Unit C: User Research & UX Design
 
 ### Week 11: Habit
 
