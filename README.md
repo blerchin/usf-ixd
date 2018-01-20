@@ -122,7 +122,7 @@ No class
 
 ### Week 9: Emotionality
 
-### Week 10: Intuition
+### Week 10: Sensing
 
 ## Unit 3: User Research & UX Design
 
@@ -130,13 +130,13 @@ No class
 
 ### Week 12: Temporality
 
-### Week 13: Playfulness
+### Week 13: Language
 
-### Week 14: Immersiveness
+### Week 14: Embodiment
 
-### Week 15: Intrigue
+### Week 15: Immersiveness
 
-### Week 16: Predictability
+### Week 16: Intuition
 
 
 
