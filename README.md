@@ -104,7 +104,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 | Discuss readings                       | Work time                                  |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
-### Week 5: Learnability
+### Week 5: Efficiency
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
 | **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
@@ -126,11 +126,11 @@ No class
 
 ## Unit 3: User Research & UX Design
 
-### Week 11: Habituation
+### Week 11: Habit
 
 ### Week 12: Temporality
 
-### Week 13: Language
+### Week 13: Conversation
 
 ### Week 14: Embodiment
 
