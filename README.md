@@ -74,37 +74,37 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 #### All assigments are due at the start of class.
 
 ## Unit 1: 2D Prototyping
-### Week 1: Playfulness
+### Week 1: Affordances
 | Monday Jan 22                     | Wednesday Jan 24                           |
 |:----------------------------------|:-------------------------------------------|
-| Introductions                     | Work on Exercise 1: Conway's Game of Life  |
-| Syllabus + Ground Rules           |                                            |
-| Intro to Framer                   | Research Presentation #1: *BL*             |
-| Activity: Interaction Relabelling | Assign Research Topics                     |
+| Introductions                     | Demo: Framer Basics                        |
+| Syllabus + Ground Rules           | Work on Exercise 1: Disappearing button    |
+| History of Computing              | Assign Research Topics                     |
+| Activity: Interaction Relabelling | Research Presentation #1: *BL*             |
 
-### Week 2: Habituation
+### Week 2: Learnability
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** Verplank, Norman | **DUE: Exercise 1, _Conway_**. This is graded Pass/Fail. If you turn it in, you will get 100%.|
-| Assign Research Topics            | Introduce Assignment 1: Reactions          |
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02), Norman | **DUE: Exercise 1, Button** |
+| Introduce Assignment 1: Reactions | Research Presentation #2                   |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
-| Discuss readings                  | Research Presentation #2                   |
+| Discuss readings                  |                                            |
 
-### Week 3: Temporality
+### Week 3: Feedback
 | Monday Feb 5                      | Wednesday Feb 7                            |
 |:----------------------------------|:-------------------------------------------|
 | Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
 | Activity: Telephone Pictionary    | Research Presentation #3                   |
-| Introduce Assignment 1         
+| Introduce Assignment 1: Reaction  | Work time                                  |        
 
 ### Week 4: Consistency
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Responsee:** Dourish, ??  | Work on Assignment 1                     |
-| Discuss readings                       | Research Presentation #4                   |
+| **DUE: Reading Responsee:** Murray, Verplank  | Research Presentation #4            |
+| Discuss readings                       | Work time                                  |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
-### Week 5: Tangibility
+### Week 5: Learnability
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
 | **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
@@ -113,19 +113,30 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 
 ## Unit 2: Physical Computing
 
-### Week 6: Criticality
+### Week 6: Tangibility
 
-### Week 7: Emotionality
+### Week 7: Criticality
 
 ### Week 8: Spring Break 🏝
 No class
 
-### Week 9: Feedback
+### Week 9: Emotionality
 
-### Week 10: Sensing
+### Week 10: Intuition
 
 ## Unit 3: User Research & UX Design
 
+### Week 11: Habituation
+
+### Week 12: Temporality
+
+### Week 13: Playfulness
+
+### Week 14: Immersiveness
+
+### Week 15: Intrigue
+
+### Week 16: Predictability
 
 
 
