@@ -2,12 +2,12 @@
 
 [![Build Status](https://travis-ci.com/usf-ixd/usf-ixd.svg?token=LKAyuftmorXjAPyN1Qyx&branch=master)](https://travis-ci.com/usf-ixd/usf-ixd)
 
-### Fall 2018
-### University of San Francisco
+### University of San Francisco | Fall 2018
 
-##### Course type: upper division studio elective
-##### Prerequisites: Digital Literacy
-##### Credits: 4
+#### Course type: upper division studio elective
+#### Prerequisites: Digital Literacy
+#### Credits: 4
+
 
 #### Course Rationale
 The course Interaction Design will serve as an upper division studio elective in the newly expanded interdisciplinary Design curriculum.  This curriculum will offer students a comprehensive design education by providing them fluency with what we call design’s Seven Pillars of Learning: Design Process, Design Research, Digital Literacy, Design Production, Design History, Design Theory/Critical Thinking, and Design Leadership.  Interaction Design will advance student’s understanding of Design Process, Design Production, and Digital Literacy as they pertain to the practice of creating advanced interactive works and programming structures, and will provide students with advanced experience in Design Theory/Critical Thinking and Design Leadership.
@@ -63,8 +63,80 @@ https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B0
 ## Structure
 This studio course will include discussion/workshop sessions, tutorials, and critique sessions. We will also make time for one-on-one meetings to review your project proposals as you work towards your final project for this course. In general, here’s how the course days will be broken down:
 
-|Mondays| Wednesdays|
+| Mondays | Wednesdays |
 |-------|-----------|
-|Readings due; Project planning due | Exercises Due |
-|Lectures + tutorials on new material; Discussions | Work time |
-|In-class practice | Research Presentations |
+| Readings due; Project planning due | Exercises Due |
+| Lectures + Tutorials | Work time |
+| Activities + Discussions | Research presentations |
+
+## Schedule
+#### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
+#### All assigments are due at the start of class.
+
+## Unit 1: 2D Prototyping
+### Week 1: Affordances
+| Monday Jan 22                     | Wednesday Jan 24                           |
+|:----------------------------------|:-------------------------------------------|
+| Introductions                     | Demo: Framer Basics                        |
+| Syllabus + Ground Rules           | Work on Exercise 1: Disappearing button    |
+| History of Computing              | Assign Research Topics                     |
+| Activity: Interaction Relabelling | Research Presentation #1: *BL*             |
+
+### Week 2: Learnability
+| Monday Jan 29                     | Wednesday Jan 31                           |
+|:----------------------------------|:-------------------------------------------|
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02), Norman | **DUE: Exercise 1, Button** |
+| Introduce Assignment 1: Reactions | Research Presentation #2                   |
+| Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
+| Discuss readings                  |                                            |
+
+### Week 3: Feedback
+| Monday Feb 5                      | Wednesday Feb 7                            |
+|:----------------------------------|:-------------------------------------------|
+| Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
+| Activity: Telephone Pictionary    | Research Presentation #3                   |
+| Introduce Assignment 1: Reaction  | Work time                                  |        
+
+### Week 4: Consistency
+| Monday Feb 12                          | Wednesday Feb 14                           |
+|:---------------------------------------|:-------------------------------------------|
+| **DUE: Reading Responsee:** Murray, Verplank  | Research Presentation #4            |
+| Discuss readings                       | Work time                                  |
+| CoffeeScript best practices/Framer Q&A |                                            |
+
+### Week 5: Learnability
+| Monday Feb 12                          | Wednesday Feb 14                           |
+|:---------------------------------------|:-------------------------------------------|
+| **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
+|                                        | Critique                                   |
+|                                        | Research Presentation #5                   |
+
+## Unit 2: Physical Computing
+
+### Week 6: Tangibility
+
+### Week 7: Criticality
+
+### Week 8: Spring Break 🏝
+No class
+
+### Week 9: Emotionality
+
+### Week 10: Sensing
+
+## Unit 3: User Research & UX Design
+
+### Week 11: Habituation
+
+### Week 12: Temporality
+
+### Week 13: Language
+
+### Week 14: Embodiment
+
+### Week 15: Immersiveness
+
+### Week 16: Intuition
+
+
+
