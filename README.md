@@ -85,7 +85,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 ### Week 2: Learnability
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02), Norman | **DUE: Exercise 1, Button** |
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
 | Introduce Assignment 1: Reactions | Research Presentation #2                   |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  |                                            |
@@ -100,7 +100,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 ### Week 4: Consistency
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Responsee:** Murray, Verplank  | Research Presentation #4            |
+| **DUE: Reading Responsee:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
 | Discuss readings                       | Work time                                  |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
