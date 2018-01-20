@@ -136,7 +136,7 @@ No class
 
 ### Week 15: Immersiveness
 
-### Week 16: Intuition
+### Week 16: Tactics
 
 
 
