@@ -86,7 +86,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 #### Jan 29 / 31
 | Monday                            | Wednesday                                  |
 |:----------------------------------|:-------------------------------------------|
-| **DUE:** Reading Response: Verplank, Norman | **DUE:** Excercise 1 _(This is graded Pass/Fail. If you turn it in, you will get 100%.)_|
+| **DUE: Reading Response:** Verplank, Norman | **DUE: Exercise 1, _Conway_**. NB: This is graded Pass/Fail. If you turn it in, you will get 100%.|
 | Assign Research Topics            | Pair on Exercise 2: Social Feed            |
 | Demo: Creating Flows in Framer    |                                            |
 | Discuss readings                  | Research Presentation #2                   |
