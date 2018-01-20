@@ -100,16 +100,32 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 ### Week 4: Consistency
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Responsee:** Dourish,   | Work on Assignment 1                       |
+| **DUE: Reading Responsee:** Dourish, ??  | Work on Assignment 1                     |
 | Discuss readings                       | Research Presentation #4                   |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
-## Unit 2: Physical Computing
 ### Week 5: Tangibility
+| Monday Feb 12                          | Wednesday Feb 14                           |
+|:---------------------------------------|:-------------------------------------------|
+| **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
+|                                        | Critique                                   |
+|                                        | Research Presentation #5                   |
+
+## Unit 2: Physical Computing
 
 ### Week 6: Criticality
-| **DUE: Reading Responsee:** Dunne & Raby |
 
 ### Week 7: Emotionality
+
+### Week 8: Spring Break 🏝
+No class
+
+### Week 9: Feedback
+
+### Week 10: Sensing
+
+## Unit 3: User Research & UX Design
+
+
 
 
