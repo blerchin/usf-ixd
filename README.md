@@ -113,14 +113,14 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 
 ## Unit B: Physical Computing
 
-### Week 6: Tangibility
+### Week 6: Criticality
 | Monday Feb 26                          | Wednesday Feb 28                           |
 |:---------------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation #5 |
 | Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
 | Demo: Basic electronics with Arduino   |                                            |
 
-### Week 7: Criticality
+### Week 7: Tangibility
 | Monday Mar 5                           | Wednesday Mar 7                            |
 |:---------------------------------------|:-------------------------------------------|
 | Introduce Assigment 2                  | **DUE: Exercise #3**                       |
