@@ -73,9 +73,9 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
 #### All assigments are due at the start of class.
 
+## Unit 1: 2D Prototyping
 ### Week 1: Playfulness
-#### Jan 22 / 24
-| Monday                            | Wednesday                                  |
+| Monday Jan 22                     | Wednesday Jan 24                           |
 |:----------------------------------|:-------------------------------------------|
 | Introductions                     | Work on Exercise 1: Conway's Game of Life  |
 | Syllabus + Ground Rules           |                                            |
@@ -83,10 +83,33 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 | Activity: Interaction Relabelling | Assign Research Topics                     |
 
 ### Week 2: Habituation
-#### Jan 29 / 31
-| Monday                            | Wednesday                                  |
+| Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** Verplank, Norman | **DUE: Exercise 1, _Conway_**. NB: This is graded Pass/Fail. If you turn it in, you will get 100%.|
-| Assign Research Topics            | Pair on Exercise 2: Social Feed            |
-| Demo: Creating Flows in Framer    |                                            |
+| **DUE: Reading Response:** Verplank, Norman | **DUE: Exercise 1, _Conway_**. This is graded Pass/Fail. If you turn it in, you will get 100%.|
+| Assign Research Topics            | Introduce Assignment 1: Reactions          |
+| Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  | Research Presentation #2                   |
+
+### Week 3: Temporality
+| Monday Feb 5                      | Wednesday Feb 7                            |
+|:----------------------------------|:-------------------------------------------|
+| Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
+| Activity: Telephone Pictionary    | Research Presentation #3                   |
+| Introduce Assignment 1         
+
+### Week 4: Consistency
+| Monday Feb 12                          | Wednesday Feb 14                           |
+|:---------------------------------------|:-------------------------------------------|
+| **DUE: Reading Responsee:** Dourish,   | Work on Assignment 1                       |
+| Discuss readings                       | Research Presentation #4                   |
+| CoffeeScript best practices/Framer Q&A |                                            |
+
+## Unit 2: Physical Computing
+### Week 5: Tangibility
+
+### Week 6: Criticality
+| **DUE: Reading Responsee:** Dunne & Raby |
+
+### Week 7: Emotionality
+
+
