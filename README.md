@@ -83,82 +83,57 @@ All assigments are due at the start of class.
 
 ## Unit A: 2D Prototyping
 ### Week 1: Affordances
-#### Monday Jan 22
-- Introductions
-- Syllabus + Ground Rules
-- Lecture: History of Computer Interfaces
-- Activity: Interaction Relabelling
-
-#### Wednesday Jan 24
-- Assign Research Topics
-- Research Presentation #1: *BL*
-- Demo: Framer Basics
-- Work on Exercise 1: Disappearing button
-
+| Monday Jan 22                     | Wednesday Jan 24                           |
+|:----------------------------------|:-------------------------------------------|
+| Introductions                     | Demo: Framer Basics                        |
+| Syllabus + Ground Rules           | Work on Exercise 1: Disappearing button    |
+| History of Computing              | Assign Research Topics                     |
+| Activity: Interaction Relabelling | Research Presentation #1: *BL*             |
 
 ### Week 2: Learnability
-#### Monday Jan 29
-- **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf)
-- Demo: Creating Flows in Framer
-- Discuss readings
-
-#### Wednesday Jan 31
-- **DUE: Exercise 1, Button**
-- Research Presentation #2
-- Pair on Exercise 2: _Social Feed_
+| Monday Jan 29                     | Wednesday Jan 31                           |
+|:----------------------------------|:-------------------------------------------|
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
+| Introduce Assignment 1: Reactions | Research Presentation #2                   |
+| Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
+| Discuss readings                  |                                            |
 
 ### Week 3: Feedback
-#### Monday Feb 5
-- Demo: Animations + Microinteractions
-- Activity: Telephone Pictionary
-- Introduce Assignment 1: Reaction
-
-#### Wednesday Feb 7
-- **DUE: Exercise 2, _Social Feed_** 
-- Research Presentation #3
-- Work time
-
+| Monday Feb 5                      | Wednesday Feb 7                            |
+|:----------------------------------|:-------------------------------------------|
+| Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
+| Activity: Telephone Pictionary    | Research Presentation #3                   |
+| Introduce Assignment 1: Reaction  | Work time                                  |        
 
 ### Week 4: Consistency
-#### Monday Feb 12
-- **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)
-- Discuss readings
-- CoffeeScript best practices/Framer Q&A
-
-#### Wednesday Feb 14
-- Research Presentation #4
-- Work time
+| Monday Feb 12                          | Wednesday Feb 14                           |
+|:---------------------------------------|:-------------------------------------------|
+| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
+| Discuss readings                       | Work time                                  |
+| CoffeeScript best practices/Framer Q&A |                                            |
 
 ### Week 5: Efficiency
-#### Monday Feb 19
-- **Presidents' Day** No class.
-
-#### Wednesday Feb 21
-- **DUE: Assigment 1: Reactions** 
-- Critique
+| Monday Feb 19                          | Wednesday Feb 21                           |
+|:---------------------------------------|:-------------------------------------------|
+| **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
+|                                        | Critique                                   |
+|                                        |                                            |
 
 ## Unit B: Physical Computing
 
 ### Week 6: Criticality
-#### Monday Feb 26
-- **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf)
-- Discuss readings
-- Demo: Basic electronics with Arduino
-
-#### Wednesday Feb 28
-- Research Presentation #5
-- Work on Exercise #3: Volts, Amps & Frequency
+| Monday Feb 26                          | Wednesday Feb 28                           |
+|:---------------------------------------|:-------------------------------------------|
+| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation #5 |
+| Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
+| Demo: Basic electronics with Arduino   |                                            |
 
 ### Week 7: Tangibility
-#### Monday Mar 5
-- Introduce Assigment 2
-- Demo: Human interfaces with arduino
-- Work time
-
-#### Wednesday Mar 7
-- **DUE: Exercise #3**
-- Research presentation #6
-- Work time
+| Monday Mar 5                           | Wednesday Mar 7                            |
+|:---------------------------------------|:-------------------------------------------|
+| Introduce Assigment 2                  | **DUE: Exercise #3**                       |
+| Demo: Human interfaces with arduino    | Research presentation #6                   |
+| Work time                              | Work time                                  |
 
 ### Week 8: Spring Break
 🏝 No class 🏝
@@ -180,6 +155,7 @@ All assigments are due at the start of class.
 ### Week 15: Immersiveness
 
 ### Week 16: Tactics
+
 
 
 ## Grading
