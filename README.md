@@ -87,9 +87,9 @@ All assigments are due at the start of class.
 | Monday Jan 22 | Wednesday Jan 24 |
 | :--- | :--- |
 | Introductions | Demo: Framer Basics |
-| Syllabus + Ground Rules | Work on Exercise 1: Disappearing button    |
+| Syllabus Ground Rules | Work on Exercise 1 Disappearing button    |
 | History of Computing | Assign Research Topics |
-| Activity: Interaction Relabelling | Research Presentation #1: *BL* |
+| Activity Interaction Relabelling | Research Presentation 1 BL |
 
 ### Week 2: Learnability
 | Monday Jan 29                     | Wednesday Jan 31                           |
