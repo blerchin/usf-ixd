@@ -8,6 +8,7 @@
 - [Structure](#structure)
 - [Schedule](#schedule)
 - [Grading](#grading)
+- [Assignments](#assignments)
 
 
 ## Course Info
@@ -96,7 +97,7 @@ All assigments are due at the start of class.
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
-| Introduce Assignment 1: Reactions | Research Presentation #2                   |
+| Introduce Project 1: Reactions | Research Presentation #2                   |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  |                                            |
 
@@ -120,9 +121,8 @@ All assigments are due at the start of class.
 
 | Monday Feb 19                          | Wednesday Feb 21                           |
 |:---------------------------------------|:-------------------------------------------|
-| **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
+| **Presidents' Day** No class.          | **DUE: Project 1: Reactions**            |
 |                                        | Critique                                   |
-|                                        |                                            |
 
 ## Unit B: Physical Computing
 
@@ -179,19 +179,22 @@ Assignments are invitations to experiment, invent, iterate, and refine. Creative
 | **F** |	Did not complete the project’s goals and/or process documentation was absent or inadequate. Does not meet the minimum requirements for the course. |
 
 ### Grade Weights by Project
-In this course, you will complete three large assignments, each supported by multiple exercises to be assigned in class. These exercises are meant to bolster and support your learning and experimentation, and to integrate new skills. Scores earned on all exercises be rolled up into the final project grade for that project. Detailed descriptions will be available on this website once assigned.
+In this course, you will complete three large projects, each supported by multiple exercises to be assigned in class. These exercises are meant to bolster and support your learning and experimentation, and to integrate new skills. Scores earned on all exercises be rolled up into the final project grade for that project. Detailed descriptions will be available on this website once assigned.
 
 | Weight | Project |
 | :---   | :--- |
-| **15%** | **Assignment 1: Reactions**. Reconceive an existing platform with a new way of engaging with, or responding to content. Present a clickable 2D prototype in Framer. |
-| **20%** | **Assignment 2: TBA**. Present a physical prototype built in Arduino. |
-| **30%**   | **Assignment 3: TBA**. Research, test, and document a solution to a problematic digital interaction you have identified. Your choice of media. |
+| **15%** | **Project 1: Reaction**. Reconceive an existing platform with a new way of engaging with, or responding to content. Present a clickable 2D prototype in Framer. |
+| **20%** | **Project 2: TBA**. Present a physical prototype built in Arduino. |
+| **30%**   | **Project 3: TBA**. Research, test, and document a solution to a problematic digital interaction you have identified. Your choice of media. |
 | **15%** | **Readings & Reading Responses**. Read all assigned readings and write thoughtful responses. Engage in in-class discussions of each reading with your fellow classmates, and consider readings when developing your own work. |
 | **5%**  | **Research Presentation**. Throughout the semester, we will collectively learn about various topics in Interaction Design theory. Give a five-minute presentation to the class on the date specified for the topic you have been assigned. This presentation will entail outside research, and a synthesis of researched material to the themes and readings of this course.
 | **15%** | **Participation**. Come to class on time and prepared to discuss readings, projects, and ideas. Participation includes engagement in discussions, in-class workshops and activities, and critiques. Giving your full attention to your classmates in critiques is both expected and also a gift: nowhere else do we get the ability to have so many eyes and opinions focused on our work, with the intention to help our artistic practice develop. It is expected that you will be generous with your investment in each other’s work, and that you will show this generosity by giving your undivided attention to your classmates through the critique structure. |
 
-
-
-
+## Assignments
+- [Research Presentation](docs/research-presentation.md)
+- Project 1: Reaction
+  - Exercise 1: Disappearing Button
+  - Exercise 2: Social Feed
+- [Activity: Interaction Relabelling](docs/interaction-relabelling.md)
 
 
