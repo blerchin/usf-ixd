@@ -85,7 +85,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 ### Week 2: Learnability
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
 | Introduce Assignment 1: Reactions | Research Presentation #2                   |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  |                                            |
