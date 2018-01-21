@@ -53,7 +53,9 @@ By the end of the semester, students will be expected to:
 
 #### Further Readings
 - _Responsive Environments: Architecture, Art and Design_, Lucy Bullivant, V&A Publications, 2006
+- _Affective Computing_, Rosalind W. Picard, MIT Press, 1997
 - _Human Computer Interaction_, Dix et. al., Pearson, 2004
+- _About Face: The Essentials of Interaction Design_, Cooper et. al., 2014
 - _Design Noir: The Secret Life of Electronic Objects_, Anthony Dunne and Fiona Raby, 2001
 - _Speculative Everything_, Anthony Dunne and Fiona Raby, MIT Press, 2013
 - _Hooked: How to Build Habit-Forming Products_, Nir Eyal, Portfolio/Penguin, 2014
