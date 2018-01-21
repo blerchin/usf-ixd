@@ -83,6 +83,7 @@ All assigments are due at the start of class.
 
 ## Unit A: 2D Prototyping
 ### Week 1: Affordances
+
 | Monday Jan 22 | Wednesday Jan 24 |
 | :--- | :--- |
 | Introductions | Demo: Framer Basics |
