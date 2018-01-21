@@ -73,7 +73,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 |-------|-----------|
 | Readings due; Project planning due | Exercises Due |
 | Lectures + Tutorials | Work time |
-| Activities + Discussions | [Research presentations](docs/research-presentation) |
+| Activities + Discussions | [Research presentations](docs/research-presentation.md) |
 
 ## Schedule
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
