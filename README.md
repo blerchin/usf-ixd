@@ -109,34 +109,45 @@ All assigments are due at the start of class.
 
 
 ### Week 4: Consistency
-| Monday Feb 12                          | Wednesday Feb 14                           |
-|:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
-| Discuss readings                       | Work time                                  |
-| CoffeeScript best practices/Framer Q&A |                                            |
+#### Monday Feb 12
+- **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)
+- Discuss readings
+- CoffeeScript best practices/Framer Q&A
+
+#### Wednesday Feb 14
+- Research Presentation #4
+- Work time
 
 ### Week 5: Efficiency
-| Monday Feb 19                          | Wednesday Feb 21                           |
-|:---------------------------------------|:-------------------------------------------|
-| **Presidents' Day** No class.          | **DUE: Assigment 1: Reactions**            |
-|                                        | Critique                                   |
-|                                        |                                            |
+#### Monday Feb 19
+- **Presidents' Day** No class.
+
+#### Wednesday Feb 21
+- **DUE: Assigment 1: Reactions** 
+- Critique
 
 ## Unit B: Physical Computing
 
 ### Week 6: Criticality
-| Monday Feb 26                          | Wednesday Feb 28                           |
-|:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation #5 |
-| Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
-| Demo: Basic electronics with Arduino   |                                            |
+#### Monday Feb 26
+- **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf)
+- Discuss readings
+- Demo: Basic electronics with Arduino
+
+#### Wednesday Feb 28
+- Research Presentation #5
+- Work on Exercise #3: Volts, Amps & Frequency
 
 ### Week 7: Tangibility
-| Monday Mar 5                           | Wednesday Mar 7                            |
-|:---------------------------------------|:-------------------------------------------|
-| Introduce Assigment 2                  | **DUE: Exercise #3**                       |
-| Demo: Human interfaces with arduino    | Research presentation #6                   |
-| Work time                              | Work time                                  |
+#### Monday Mar 5
+- Introduce Assigment 2
+- Demo: Human interfaces with arduino
+- Work time
+
+#### Wednesday Mar 7
+- **DUE: Exercise #3**
+- Research presentation #6
+- Work time
 
 ### Week 8: Spring Break
 🏝 No class 🏝
