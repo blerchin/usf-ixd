@@ -1,7 +1,5 @@
 # ART 385 - Interaction Design
 
-[![Build Status](https://travis-ci.com/usf-ixd/usf-ixd.svg?token=LKAyuftmorXjAPyN1Qyx&branch=master)](https://travis-ci.com/usf-ixd/usf-ixd)
-
 ### University of San Francisco | Fall 2018
 
 #### Course type: upper division studio elective
@@ -31,9 +29,8 @@ By the end of the semester, students will be expected to:
 ## Resources
 
 #### Supplies
-- `required` Elegoo UNO Project Super Starter Kit with Tutorial for Arduino https://www.amazon.com/gp/product/B01D8KOZF4/
-- `recommended` Multimeter with continuity tester (you can find this at any hardware store, or on Amazon)
-https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B01N9QW620
+- `required` [Elegoo UNO Project Super Starter Kit with Tutorial for Arduino](https://www.amazon.com/gp/product/B01D8KOZF4/)
+- `recommended` [Multimeter with continuity tester](https://www.amazon.com/Etekcity-MSR-R500-Multimeters-Electronic-Multimeter/dp/B01N9QW620) (you can find this at any hardware store, or on Amazon)
 
 #### Required Texts
 - _[The Framer Book](https://framerbook.com/)_, Tes Mat, 2017.
@@ -71,31 +68,45 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 
 ## Schedule
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
-#### All assigments are due at the start of class.
+All assigments are due at the start of class.
 
 ## Unit A: 2D Prototyping
 ### Week 1: Affordances
-| Monday Jan 22                     | Wednesday Jan 24                           |
-|:----------------------------------|:-------------------------------------------|
-| Introductions                     | Demo: Framer Basics                        |
-| Syllabus + Ground Rules           | Work on Exercise 1: Disappearing button    |
-| History of Computing              | Assign Research Topics                     |
-| Activity: Interaction Relabelling | Research Presentation #1: *BL*             |
+#### Monday Jan 22
+- Introductions
+- Syllabus + Ground Rules
+- Lecture: History of Computer Interfaces
+- Activity: Interaction Relabelling
+
+#### Wednesday Jan 24
+- Assign Research Topics
+- Research Presentation #1: *BL*
+- Demo: Framer Basics
+- Work on Exercise 1: Disappearing button
+
 
 ### Week 2: Learnability
-| Monday Jan 29                     | Wednesday Jan 31                           |
-|:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
-| Introduce Assignment 1: Reactions | Research Presentation #2                   |
-| Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
-| Discuss readings                  |                                            |
+#### Monday Jan 29
+- **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf)
+- Demo: Creating Flows in Framer
+- Discuss readings
+
+#### Wednesday Jan 31
+- **DUE: Exercise 1, Button**
+- Research Presentation #2
+- Pair on Exercise 2: _Social Feed_
 
 ### Week 3: Feedback
-| Monday Feb 5                      | Wednesday Feb 7                            |
-|:----------------------------------|:-------------------------------------------|
-| Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
-| Activity: Telephone Pictionary    | Research Presentation #3                   |
-| Introduce Assignment 1: Reaction  | Work time                                  |        
+#### Monday Feb 5
+- Demo: Animations + Microinteractions
+- Activity: Telephone Pictionary
+- Introduce Assignment 1: Reaction
+
+#### Wednesday Feb 7
+- **DUE: Exercise 2, _Social Feed_** 
+- Research Presentation #3
+- Work time
+
 
 ### Week 4: Consistency
 | Monday Feb 12                          | Wednesday Feb 14                           |
