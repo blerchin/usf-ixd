@@ -2,10 +2,19 @@
 
 ### University of San Francisco | Fall 2018
 
+### Contents
+- [Course Info](#course-info)
+- [Resources](#resources)
+- [Structure](#structure)
+- [Schedule](#schedule)
+- [Grading](#grading)
+
+
+## Course Info
+
 #### Course type: upper division studio elective
 #### Prerequisites: Digital Literacy
 #### Credits: 4
-
 
 #### Course Rationale
 The course Interaction Design will serve as an upper division studio elective in the newly expanded interdisciplinary Design curriculum.  This curriculum will offer students a comprehensive design education by providing them fluency with what we call design’s Seven Pillars of Learning: Design Process, Design Research, Digital Literacy, Design Production, Design History, Design Theory/Critical Thinking, and Design Leadership.  Interaction Design will advance student’s understanding of Design Process, Design Production, and Digital Literacy as they pertain to the practice of creating advanced interactive works and programming structures, and will provide students with advanced experience in Design Theory/Critical Thinking and Design Leadership.
@@ -64,7 +73,7 @@ This studio course will include discussion/workshop sessions, tutorials, and cri
 |-------|-----------|
 | Readings due; Project planning due | Exercises Due |
 | Lectures + Tutorials | Work time |
-| Activities + Discussions | Research presentations |
+| Activities + Discussions | [Research presentations](docs/research-presentation) |
 
 ## Schedule
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
@@ -169,6 +178,35 @@ All assigments are due at the start of class.
 ### Week 15: Immersiveness
 
 ### Week 16: Tactics
+
+
+## Grading
+
+### Letter Grade Definitions 
+Assignments are invitations to experiment, invent, iterate, and refine. Creative, ambitious projects will receive high marks, while easily obtained or obvious solutions will receive lower marks. Grading will be determined based on conceptual approaches to each assignment, and its execution -- that is, the project's ability to successfully communicate to its intended audience. 
+
+| Letter Grade | Requirements |
+| :--- | :--- |
+| **A** | Successful fulfillment of the project’s goals -- project conceptualization, planning, design, and execution performed at the highest level. Project completed with a well-conceived, original, and cohesive visual and artistic aesthetic, and superlative process documentation and written description. |
+| **B** | Successful fulfillment of the project’s goals -- project conceptualization, planning, design, and execution performed at an above average level. Project completed with a well-conceived, cohesive visual and artistic aesthetic, and excellent process documentation and written description. |
+| **C** |	Successful fulfillment of the project’s goals -- project conceptualization, planning, design, and execution performed at an average level. Project completed with adequate process documentation and written description, but without a cohesive artistic or visual aesthetic. |
+| **D** |	Did not complete the project’s goals and/or process documentation was absent or inadequate. Project conceptualization, planning, design, and execution performed below average. |
+| **F** |	Did not complete the project’s goals and/or process documentation was absent or inadequate. Does not meet the minimum requirements for the course. |
+
+### Grade Weights by Project
+In this course, you will complete three large assignments, each supported by multiple exercises to be assigned in class. These exercises are meant to bolster and support your learning and experimentation, and to integrate new skills. Scores earned on all exercises be rolled up into the final project grade for that project. Detailed descriptions will be available on this website once assigned.
+
+| Weight | Project |
+| :---   | :--- |
+| **15%** | **Assignment 1: Reactions**. Reconceive an existing platform with a new way of engaging with, or responding to content. Present a clickable 2D prototype in Framer. |
+| **20%** | **Assignment 2: TBA**. Present a physical prototype built in Arduino. |
+| **30%**   | **Assignment 3: TBA**. Research, test, and document a solution to a problematic digital interaction you have identified. Your choice of media. |
+| **15%** | **Readings & Reading Responses**. Read all assigned readings and write thoughtful responses. Engage in in-class discussions of each reading with your fellow classmates, and consider readings when developing your own work. |
+| **5%**  | **Research Presentation**. Throughout the semester, we will collectively learn about various topics in Interaction Design theory. Give a five-minute presentation to the class on the date specified for the topic you have been assigned. This presentation will entail outside research, and a synthesis of researched material to the themes and readings of this course.
+| **15%** | **Participation**. Come to class on time and prepared to discuss readings, projects, and ideas. Participation includes engagement in discussions, in-class workshops and activities, and critiques. Giving your full attention to your classmates in critiques is both expected and also a gift: nowhere else do we get the ability to have so many eyes and opinions focused on our work, with the intention to help our artistic practice develop. It is expected that you will be generous with your investment in each other’s work, and that you will show this generosity by giving your undivided attention to your classmates through the critique structure. |
+
+
+
 
 
 
