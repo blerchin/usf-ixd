@@ -1,8 +1,0 @@
-sudo: required
-
-services:
-  - docker
-
-script:
-  - docker build . -t usf-ixd
-  - docker run -e GITHUB_USERNAME -e GITHUB_ACCESS_TOKEN usf-ixd
