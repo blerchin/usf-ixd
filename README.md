@@ -286,22 +286,22 @@ To report any sexual misconduct, students may visit the UC 5th floor or see many
 
 ### Campus Resources
 CASA
-University Center, 3rd Floor
-415-422- 5050
-casa@usfca.edu
-<https://myusf.usfca.edu/student-life/CASA>
+- University Center, 3rd Floor
+- 415-422- 5050
+- casa@usfca.edu
+- <https://myusf.usfca.edu/student-life/CASA>
 
 CAPS Counseling & Psychological Services 
-Gilson Hall, Lower Level
-415-422- 6352
-<https://myusf.usfca.edu/student-health-safety/caps/services>
+- Gilson Hall, Lower Level
+- 415-422- 6352
+- <https://myusf.usfca.edu/student-health-safety/caps/services>
 
 Student Disabilities Services
-Gleeson LL 20
-415-422- 2613
-<usfca.edu/sds>
+- Gleeson LL 20
+- 415-422- 2613
+- <usfca.edu/sds>
 
 Learning, Writing, and Speaking Centers
-Gleeson Library, LL G03
-415-422- 6713
-<https://myusf.usfca.edu/student-life/lwc>
+- Gleeson Library, LL G03
+- 415-422- 6713
+- <https://myusf.usfca.edu/student-life/lwc>
