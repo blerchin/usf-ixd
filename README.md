@@ -96,7 +96,7 @@ All assigments are due at the start of class.
 | Introductions                    | Demo: Framer Basics |
 | Syllabus + Ground Rules          | Work on Exercise 1: Disappearing button    |
 | History of Computing             | Assign Research Topics |
-| Activity: [Interaction Relabelling](docs/interaction-relabelling.md) | Research Presentation 1: *BL* |
+| Activity: [Interaction Relabelling](src/activities/interaction-relabelling/index.md) | Research Presentation 1: *BL* |
 
 ### Week 2: Learnability
 
@@ -219,13 +219,13 @@ In this course, you will complete three large projects, each supported by multip
 - Project 1: Reaction
   - Exercise 1: Disappearing Button
   - Exercise 2: Social Feed
-- [Activity: Interaction Relabelling](docs/interaction-relabelling.md)
+- [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
 
 
 ## Policies
 
 ### Attendance
-Attendance in every class session for the full session is vital to succeeding in this course. Students are allowed **one** absence. Two absences will lower students final grade by on entire grade level. **Three or more absences will result in an unconditional F for this course.** Students will be counted as late if they appear in class more than ten minutes late. Two such late arrivals will count as one absence. If you must miss class for a medical appointment, family emergency or other conflict please advise in advance of your absence,
+Attendance in every class session for the full session is vital to succeeding in this course. Students are allowed **one** absence. Two absences will lower students final grade by an entire grade level. **Three or more absences will result in an unconditional F for this course.** Students will be counted as late if they appear in class more than ten minutes late. Two such late arrivals will count as one absence. If you must miss class for a medical appointment, family emergency or other conflict please advise in advance of your absence,
 or immediately after.
 
 ### Final Exam
