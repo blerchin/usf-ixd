@@ -241,7 +241,7 @@ Most of your work for this course will be stored in digital form, so it is criti
 						
 Think about how much work you are willing to lose. 30 minutes? 5 hours? 3 weeks?
 								
-You should back up all of your digital files more frequently than the duration above. I recommend either using an online service (e.g., backblaze.com or mozy.com) and/or investing in an external hard drive and automated backup software (like Time Machine). **Do not rely on a single backup solution.** We will be learning to use `git` for source control. I encourage you to use this tool as part of your risk mitigation strategy.
+You should back up all of your digital files at least this often. I recommend either using an online service (e.g., backblaze.com or mozy.com) and/or investing in an external hard drive and automated backup software (like Time Machine). **Do not rely on a single backup solution.** We will be learning to use `git` for source control. I encourage you to use this tool as part of your risk mitigation strategy.
 
 ### Email Communication
 On some occasions, I will need to send you course-related information outside of class. My expectation is that you will check your email at least once each day. Since I only have access to your @usfca.edu email address, be sure to check that account daily. If you primarily use another email account, I recommend setting your USF account to forward all mail to your primary account, so you never miss a message.
@@ -261,13 +261,13 @@ Students will observe and respect the University’s policy regarding academic i
 
 Plagiarism and creative integrity are not only of vital importance to the University and your academic career, but also to your professional career beyond graduation. Plagiarism of written or visual work is a serious offence punishable by law. 
 
-A full copy of the USF Honor Code can be found here:  http://www.usfca.edu/catalog/policies/honor/
+A full copy of the USF Honor Code can be found here:  <http://www.usfca.edu/catalog/policies/honor/>
 
 ### Learning Disabilities
 If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at 415-422- 2613 within the first week of class, or immediately upon onset of disability, to speak with a disability specialist. If you are determined eligible for reasonable accommodations, please meet with your disability specialist so they can arrange to have your accommodation letter sent to me, and we will discuss your needs for this course. Accommodations for learning disabilities will only be granted to students who go through this office. For more information, please visit <usfca.edu/sds> or call 415-422-2613.
 
 ### Behavioral Expectations
-All students are expected to behave in accordance with the Student Conduct Code and other University policies (see http://www.usfca.edu/fogcutter/).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
+All students are expected to behave in accordance with the Student Conduct Code and other University policies (see <http://www.usfca.edu/fogcutter/>).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
 
  
 ### Learning & Writing Center
@@ -282,26 +282,26 @@ All University Athletes must provide the Professor with an official letter from 
 ### Confidentiality, Mandatory Reporting, and Sexual Assault
 As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USFs campus with the University. Following are other resources:
 
-To report any sexual misconduct, students may visit the UC 5th floor or see many other options by visiting our website: www.usfca.edu/student_life/safer. Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422- 6352. To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: www.usfca.callistocampus.org. For an off campus resource, contact San Francisco Women Against Rape (SFWAR) (415) 647-7273 (www.sfwar.org).
+To report any sexual misconduct, students may visit the UC 5th floor or see many other options by visiting our website: <www.usfca.edu/student_life/safer>. Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422- 6352. To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: <www.usfca.callistocampus.org>. For an off campus resource, contact San Francisco Women Against Rape (SFWAR) (415) 647-7273 (<www.sfwar.org>).
 
 ### Campus Resources
 CASA
 University Center, 3rd Floor
 415-422- 5050
 casa@usfca.edu
-https://myusf.usfca.edu/student-life/CASA
+<https://myusf.usfca.edu/student-life/CASA>
 
 CAPS Counseling & Psychological Services 
 Gilson Hall, Lower Level
 415-422- 6352
-https://myusf.usfca.edu/student-health- safety/caps/services
+<https://myusf.usfca.edu/student-health-safety/caps/services>
 
 Student Disabilities Services
 Gleeson LL 20
 415-422- 2613
-usfca.edu/sds 
+<usfca.edu/sds>
 
 Learning, Writing, and Speaking Centers
 Gleeson Library, LL G03
 415-422- 6713
-https://myusf.usfca.edu/student-life/lwc%20
+<https://myusf.usfca.edu/student-life/lwc>
