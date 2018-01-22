@@ -96,7 +96,7 @@ All assigments are due at the start of class.
 | Introductions                    | Demo: Framer Basics |
 | Syllabus + Ground Rules          | Work on Exercise 1: Disappearing button    |
 | History of Computing             | Assign Research Topics |
-| Activity Interaction Relabelling | Research Presentation 1: *BL* |
+| Activity: [Interaction Relabelling](docs/interaction-relabelling.md) | Research Presentation 1: *BL* |
 
 ### Week 2: Learnability
 
@@ -173,7 +173,8 @@ All assigments are due at the start of class.
 Much of our class will be dedicated to programming. Like learning any new language or technique, programming will require practice and dedication beyond our contact time. Much can be learned by copying, pasting and altering code from resources you find online. Most everyone I know who programs (myself included) learned to code in this fashion. I expect you’ll do the same.
 						
 It is okay to utilize code, libraries and resources found online in service to your project. If you do this — and again, I expect you will — you must cite the author of the source code at the bottom your own scripts. You can do this with some commented code of your own. I expect you’ll follow the University of Arkansas guidelines for citing computer code (http://uark.libguides.com/c.php? g=78829&p=506916). An example of this might look as follows:
-				
+
+```
 /************		
 *     Title: <title of program/source code>
 *     Author: <author(s) names>
@@ -182,6 +183,7 @@ It is okay to utilize code, libraries and resources found online in service to y
 *     Availability: <where it's located>
 *
 ************/
+```
 
 In addition, as with any other form of plagiarism, there is a difference between copying a work in its entirety and leveraging it as a resource. That means there’s a difference between utilizing a demo as a resource and submitting it wholesale as your work. I can tell the difference. As with all forms of plagiarism, please refer to the section in this syllabus on Academic Integrity. And by all means, feel free to ask me if you feel unsure with what you are submitting. 
 
