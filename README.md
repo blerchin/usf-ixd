@@ -1,14 +1,3 @@
----
-toc:
- -  course-info
- -  resources
- -  structure
- -  schedule
- -  grading
- -  assignments
- -  policies
----
-
 ### University of San Francisco | Spring 2018
 #### MW 8:45-11:30am
 
