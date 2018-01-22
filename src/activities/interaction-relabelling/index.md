@@ -6,4 +6,4 @@ Your group will be assigned an object. For the purposes of this exercise, you wi
 
 As a group, brainstorm a series of names and uses for this object. These can be silly or impractical. The only requirement is that they must in some way take advantage of the unique physical characteristics of your object. Spend about 15 minutes writing down as many uses as you can.
 
-Once you have a list of uses, decide on the best 'use'. Write and direct a very short video (30 seconds to a minute) demonstrating the use of this object. Feel free to enlist other group members in the production of this video. It's best if you can film your video in a single take, so you don't have to edit it.
+Once you have a list of uses, decide on the best 'use'. Write and direct a very short video (30 seconds to a minute) demonstrating the use of this object. It's best if you can film your video in a single take, so you don't have to edit it.
