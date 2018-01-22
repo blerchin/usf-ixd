@@ -1,16 +1,20 @@
-# ART 385 - Interaction Design
+---
+title: ART 385 - Interaction Design
+toc:
+	- course-info: Course Info
+	- resources: Resources
+	- structure: Structure
+	- schedule: Schedule
+	- grading: Grading
+	- assignments: Assignments
+	- policies: Policies
+---
 
 ### University of San Francisco | Spring 2018
 #### MW 8:45-11:30am
 
 ### Contents
-- [Course Info](#course-info)
-- [Resources](#resources)
-- [Structure](#structure)
-- [Schedule](#schedule)
-- [Grading](#grading)
-- [Assignments](#assignments)
-- [Policies](#policies)
+
 
 
 ## Course Info
