@@ -1,7 +1,3 @@
-# ART 385 - Interaction Design
-### University of San Francisco | Fall 2018
-
-
 ## Research Presentation
 
 Throughout the course, we will structure our discussions around a series of weekly topics in Interaction Design theory, listed below. As researcher for the week, you will compile relevant visual references and a short list of discussion questions for the class.
