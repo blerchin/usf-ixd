@@ -1,5 +1,4 @@
 ---
-title: ART 385 - Interaction Design
 toc:
  -  course-info
  -  resources
