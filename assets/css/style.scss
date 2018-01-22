@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table td {
+  width: 50%;
+}
+
+a:hover {
+  font-weight: normal;
+  text-decoration: underline;
+}
+  
