@@ -17,6 +17,16 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if page.title %}
+          <h2>{{ page.title }}</h2>
+        {% endif %}
+        {% if page.toc %}
+          <ul class="toc">
+            {% for link in page.toc %}
+              <li><a href="#{{ link[0] }}">{{ link[1] }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
 
         {% if site.show_downloads %}
           <ul>
