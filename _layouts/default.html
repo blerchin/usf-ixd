@@ -23,7 +23,7 @@
         {% if page.toc %}
           <ul class="toc">
             {% for link in page.toc %}
-              {{ link }}
+              <li><a href="#{{ link }}">{{ link }}</a></li>
             {% endfor %}
           </ul>
         {% endif %}
