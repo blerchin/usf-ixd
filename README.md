@@ -53,13 +53,13 @@ By the end of the semester, students will be expected to:
 - _[Learn Electronics with Arduino](https://www.amazon.com/Learn-Electronics-Arduino-Illustrated-Beginners/dp/1680453742)_, Jody Culkin and Eric Hagan, Maker Media, 2017
 
 #### E-Learning
-- [Interaction Design Fundamentals](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html), Lynda.com
 - [CoffeeScript Language Reference](http://coffeescript.org/#language)
+- [Framer Reference](https://framer.com/getstarted/guides/)
+- [Interaction Design Fundamentals](https://www.lynda.com/Dreamweaver-tutorials/Welcome/82822/97965-4.html), Lynda.com
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson (@getify). Authoritative resource on Javascript nitty-gritty
 
 #### Further Readings
 - _Responsive Environments: Architecture, Art and Design_, Lucy Bullivant, V&A Publications, 2006
-- _Affective Computing_, Rosalind W. Picard, MIT Press, 1997
 - _Human Computer Interaction_, Dix et. al., Pearson, 2004
 - _About Face: The Essentials of Interaction Design_, Cooper et. al., 2014
 - _Design Noir: The Secret Life of Electronic Objects_, Anthony Dunne and Fiona Raby, 2001
@@ -72,16 +72,17 @@ By the end of the semester, students will be expected to:
 - _Designing Interactions_, Bill Moggridge, MIT Press, 2007
 - _Programming Arduino: Getting Started with Sketches_, Simon Monk, McGraw-Hill, 2016
 - _The Design of Everyday Things_, Don Norman, 1988
+- _Affective Computing_, Rosalind W. Picard, MIT Press, 1997
 - _Form + Code_, Reas et. al., Princeton, 2010
 
 ## Structure
 This studio course will include discussion/workshop sessions, tutorials, and critique sessions. We will also make time for one-on-one meetings to review your project proposals as you work towards your final project for this course. In general, here’s how the course days will be broken down:
 
-| Mondays | Wednesdays |
-|-------|-----------|
+| Mondays                            | Wednesdays    |
+|------------------------------------|---------------|
 | Readings due; Project planning due | Exercises Due |
-| Lectures + Tutorials | Work time |
-| Activities + Discussions | [Research presentations](docs/research-presentation.md) |
+| Lectures + Tutorials               | Work time     |
+| Activities + Discussions           | [Research presentations](docs/research-presentation.md) |
 
 ## Schedule
 #### *Dates and reading assignments are subject to change. Please refer to this online document for the most up-to-date schedule.*
