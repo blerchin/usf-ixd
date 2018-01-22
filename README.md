@@ -1,6 +1,7 @@
 # ART 385 - Interaction Design
 
-### University of San Francisco | Fall 2018
+### University of San Francisco | Spring 2018
+#### MW 8:45-11:30am
 
 ### Contents
 - [Course Info](#course-info)
@@ -9,13 +10,18 @@
 - [Schedule](#schedule)
 - [Grading](#grading)
 - [Assignments](#assignments)
+- [Policies](#policies)
 
 
 ## Course Info
+- **Course type:** upper division studio elective
+- **Prerequisites:** Digital Literacy
+- **Credits:** 4
 
-#### Course type: upper division studio elective
-#### Prerequisites: Digital Literacy
-#### Credits: 4
+
+#### Instructor: Ben Lerchin
+- **Email:** <bwlerchin@usfca.edu>
+- **Office Hours:** 11:30am-12:30pm MW, XARTS Lobby
 
 #### Course Rationale
 The course Interaction Design will serve as an upper division studio elective in the newly expanded interdisciplinary Design curriculum.  This curriculum will offer students a comprehensive design education by providing them fluency with what we call design’s Seven Pillars of Learning: Design Process, Design Research, Digital Literacy, Design Production, Design History, Design Theory/Critical Thinking, and Design Leadership.  Interaction Design will advance student’s understanding of Design Process, Design Production, and Digital Literacy as they pertain to the practice of creating advanced interactive works and programming structures, and will provide students with advanced experience in Design Theory/Critical Thinking and Design Leadership.
@@ -163,6 +169,21 @@ All assigments are due at the start of class.
 
 ### Week 16: Tactics
 
+## Code Standards
+Much of our class will be dedicated to programming. Like learning any new language or technique, programming will require practice and dedication beyond our contact time. Much can be learned by copying, pasting and altering code from resources you find online. Most everyone I know who programs (myself included) learned to code in this fashion. I expect you’ll do the same.
+						
+It is okay to utilize code, libraries and resources found online in service to your project. If you do this — and again, I expect you will — you must cite the author of the source code at the bottom your own scripts. You can do this with some commented code of your own. I expect you’ll follow the University of Arkansas guidelines for citing computer code (http://uark.libguides.com/c.php? g=78829&p=506916). An example of this might look as follows:
+				
+/************		
+*     Title: <title of program/source code>
+*     Author: <author(s) names>
+*     Date: <date>
+*     Code version: <code version>
+*     Availability: <where it's located>
+*
+************/
+
+In addition, as with any other form of plagiarism, there is a difference between copying a work in its entirety and leveraging it as a resource. That means there’s a difference between utilizing a demo as a resource and submitting it wholesale as your work. I can tell the difference. As with all forms of plagiarism, please refer to the section in this syllabus on Academic Integrity. And by all means, feel free to ask me if you feel unsure with what you are submitting. 
 
 
 ## Grading
@@ -199,3 +220,93 @@ In this course, you will complete three large projects, each supported by multip
 - [Activity: Interaction Relabelling](docs/interaction-relabelling.md)
 
 
+## Policies
+
+### Attendance
+Attendance in every class session for the full session is vital to succeeding in this course. Students are allowed **one** absence. Two absences will lower students final grade by on entire grade level. **Three or more absences will result in an unconditional F for this course.** Students will be counted as late if they appear in class more than ten minutes late. Two such late arrivals will count as one absence. If you must miss class for a medical appointment, family emergency or other conflict please advise in advance of your absence,
+or immediately after.
+
+### Final Exam
+Our final project will take the place of an exam and counts for 30% of your grade. Your projects will be due at our last class meeting on **May 9**, when we will also hold our final critique.
+
+### Classroom Etiquette + Technology Policy
+Most of this course will be spent in guided discussion as lectures, project critiques, and seminars. This course will follow a hybrid lecture/studio format. A small amount of time for project work will be provided, but the majority of your individual project work must occur outside of class.
+						
+In-class work time must be used toward this course only. No email, text messaging, mobile devices, Facebook-ing, iTunes-playing, YouTube-watching, or other extraneous activities during class. First time offences will result in a warning. Second-time offenders will be publicly reprimanded. Subsequent offenses will count as one tardy appearance. See [attendance](#attendance).
+
+We’ll use technology a lot in this class, but we will also be conscious of its distracting nature.
+
+### Food and Drink
+**Allowed on the center lab tables only!!** Food and drink are strictly prohibited near lab equipment. 
+
+Generally, you may bring food into class, but please avoid bringing or consuming anything that will be noisy, smelly, or otherwise distracting.
+
+### Data Management				
+Most of your work for this course will be stored in digital form, so it is critical to manage your files carefully. “My hard drive crashed” is not a valid reason for failing to submit work on time.
+						
+Think about how much work you are willing to lose. 30 minutes? 5 hours? 3 weeks?
+								
+You should back up all of your digital files more frequently than the duration above. I recommend either using an online service (e.g., backblaze.com or mozy.com) and/or investing in an external hard drive and automated backup software (like Time Machine). **Do not rely on a single backup solution.** We will be learning to use `git` for source control. I encourage you to use this tool as part of your risk mitigation strategy.
+
+### Email Communication
+On some occasions, I will need to send you course-related information outside of class. My expectation is that you will check your email at least once each day. Since I only have access to your @usfca.edu email address, be sure to check that account daily. If you primarily use another email account, I recommend setting your USF account to forward all mail to your primary account, so you never miss a message.
+
+Email is a great way to get in touch with me. On Mondays through Fridays, you can expect a response within one working day. Please be as specific as possible with any questions or concerns you may have, as this help me offer the guidance and support you need. Note that, while email is a great tool for quick questions, meeting in person can often be the best tool for longer questions and project support; I will suggest office hours as an option to you if I feel it would be beneficial.
+
+### University Deadlines
+Note the following dates for the Spring 2018 semester:
+- Last day to ADD a course: January 26, 2018
+- Last day to DROP a course: April 9, 2018
+- Last day of classes: May 10, 2018
+
+### Academic Integrity
+Work done in the Design Program at USF must consist of original work done by the student. Whenever content is appropriated from elsewhere, the original sources of any such borrowed elements, whether text-based (as in written work) or visual (as with photographs or other images) must be clearly credited.
+
+Students will observe and respect the University’s policy regarding academic integrity as noted in the USF Honor Code. As this policy stipulates, all written and visual work submitted for this course, whether in draft or final form, must not represent the words, visuals or ideas of another person without reference or citation. Violations of academic integrity include cheating, plagiarism, false citations, submitting the same work for multiple assignments, submitting false data, and falsifying documentation. Any student who violates the USF Honor Code can expect to receive a failing grade for the project and/or the course.
+
+Plagiarism and creative integrity are not only of vital importance to the University and your academic career, but also to your professional career beyond graduation. Plagiarism of written or visual work is a serious offence punishable by law. 
+
+A full copy of the USF Honor Code can be found here:  http://www.usfca.edu/catalog/policies/honor/
+
+### Learning Disabilities
+If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at 415-422- 2613 within the first week of class, or immediately upon onset of disability, to speak with a disability specialist. If you are determined eligible for reasonable accommodations, please meet with your disability specialist so they can arrange to have your accommodation letter sent to me, and we will discuss your needs for this course. Accommodations for learning disabilities will only be granted to students who go through this office. For more information, please visit <usfca.edu/sds> or call 415-422-2613.
+
+### Behavioral Expectations
+All students are expected to behave in accordance with the Student Conduct Code and other University policies (see http://www.usfca.edu/fogcutter/).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
+
+ 
+### Learning & Writing Center
+The Learning, Writing, and Speaking Centers at USF provide individualized support to assist you in better understanding course material and to aid you on your path to success. Services are free and include one-on-one tutoring, group tutoring, and one-on-one Academic Skills Coaching appointments to discuss effective study strategies. The Writing Center helps students develop their writing skills in rhetoric, organization, style, and structure, through one-on-one interactive conferences. The Speaking Center helps students prepare for public speaking — including speeches, oral presentations, team presentations, and visual aid demonstrations. International students may also contact us to learn more about communicating with professors and general academic study skills. The Learning, Writing, and Speaking Centers are located on the Lower Level of Gleeson Library. Please contact them at (415) 422-6713 for further assistance or visit the LWC website to make an appointment.
+
+### Counseling and Psychological Services (CAPS)
+The diverse staff of CAPS offers brief individual, couple, and group counseling to student members of our community. CAPS services are confidential and free of charge. Call 415-422-6352 for an initial consultation appointment. Having a crisis at 3 AM? We are still here for you. Telephone consultation through CAPS After Hours is available between the hours of 5:00 PM to 8:30 AM; call the above number and press 2.
+
+### Student Athletes
+All University Athletes must provide the Professor with an official letter from the Athletics Office noting any excused absences at the start of the semester. Only absences indicated on the official letter will be excused from class.
+
+### Confidentiality, Mandatory Reporting, and Sexual Assault
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USFs campus with the University. Following are other resources:
+
+To report any sexual misconduct, students may visit the UC 5th floor or see many other options by visiting our website: www.usfca.edu/student_life/safer. Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422- 6352. To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: www.usfca.callistocampus.org. For an off campus resource, contact San Francisco Women Against Rape (SFWAR) (415) 647-7273 (www.sfwar.org).
+
+### Campus Resources
+CASA
+University Center, 3rd Floor
+415-422- 5050
+casa@usfca.edu
+https://myusf.usfca.edu/student-life/CASA
+
+CAPS Counseling & Psychological Services 
+Gilson Hall, Lower Level
+415-422- 6352
+https://myusf.usfca.edu/student-health- safety/caps/services
+
+Student Disabilities Services
+Gleeson LL 20
+415-422- 2613
+usfca.edu/sds 
+
+Learning, Writing, and Speaking Centers
+Gleeson Library, LL G03
+415-422- 6713
+https://myusf.usfca.edu/student-life/lwc%20
