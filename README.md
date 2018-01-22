@@ -1,13 +1,13 @@
 ---
 title: ART 385 - Interaction Design
 toc:
-	- course-info: Course Info
-	- resources: Resources
-	- structure: Structure
-	- schedule: Schedule
-	- grading: Grading
-	- assignments: Assignments
-	- policies: Policies
+  course-info: Course Info
+  resources: Resources
+  structure: Structure
+  schedule: Schedule
+  grading: Grading
+  assignments: Assignments
+  policies: Policies
 ---
 
 ### University of San Francisco | Spring 2018
