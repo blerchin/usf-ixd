@@ -3,7 +3,13 @@
 #### MW 8:45-11:30am
 
 ### Contents
-
+- [Course Info](#course-info)
+- [Resources](#resources)
+- [Structure](#structure)
+- [Schedule](#schedule)
+- [Grading](#grading)
+- [Assignments](#assignments)
+- [Policies](#policies)
 
 
 ## Course Info
