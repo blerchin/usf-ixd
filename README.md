@@ -94,7 +94,7 @@ All assigments are due at the start of class.
 | Monday Jan 22                    | Wednesday Jan 24                           |
 | :------------------------------- | :----------------------------------------- |
 | Introductions                    | Demo: Framer Basics |
-| Syllabus + Ground Rules          | Work on Exercise 1: Disappearing button    |
+| Syllabus + Ground Rules          | Work on Exercise 1: [The Circle Game](src/exercises/blue-circle)    |
 | History of Computing             | Assign Research Topics |
 | Activity: [Interaction Relabelling](src/activities/interaction-relabelling/index.md) | Research Presentation 1: *BL* |
 
@@ -102,7 +102,7 @@ All assigments are due at the start of class.
 
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, Button** |
+| **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
 | Introduce Project 1: Reactions | Research Presentation #2                   |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  |                                            |
