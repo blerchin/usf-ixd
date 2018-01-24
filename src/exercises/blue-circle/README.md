@@ -16,3 +16,12 @@ You should work as a pair in class, but then complete the assignment on your own
 
 
 Please turn in this assignment by sending me a link in Canvas to the project on Framer Cloud. We will go over how to do this in class.
+
+
+### Rubric
+| Criteria | Points |
+|---|---|
+| Application code performs according to the requirements of the assignment | 4 pts |
+| Visual aspects of project show an understanding of good style and consistent application of design principles | 2 pts |
+| Adheres to good programming practice, such as: Variables and functions are clearly named. Avoids shadowing variables. Uses consistent indentation. Comments used where appropriate. Guards against exceptions | 2 pts |
+| Project shows creative interpretation and understanding of the assignment. | 2 pts |
