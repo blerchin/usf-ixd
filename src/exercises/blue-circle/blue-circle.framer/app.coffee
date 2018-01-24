@@ -12,7 +12,7 @@ reposition = ->
 		scale: 1 + dScale
 		options:
 			time: 1
-	dScale += 0.1
+	dScale += 0.05
 	
 fail = ->
 	RedCircle.animate
