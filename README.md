@@ -95,8 +95,8 @@ All assigments are due at the start of class.
 | :------------------------------- | :----------------------------------------- |
 | Introductions                    | Demo: Framer Basics |
 | Syllabus + Ground Rules          | Work on Exercise 1: [The Circle Game](src/exercises/blue-circle)    |
-| History of Computing             | Assign Research Topics |
-| Activity: [Interaction Relabelling](src/activities/interaction-relabelling/index.md) | Research Presentation 1: *BL* |
+| [History of Computing](https://docs.google.com/presentation/d/1F8wCka8Zu7Wtz-t4uFV7TbGY7lef0r6j3Lx0PO5YWy0/edit?usp=sharing)             | Assign Research Topics |
+| Activity: [Interaction Relabelling](src/activities/interaction-relabelling/index.md) | [Research Presentation 1: *BL*](https://docs.google.com/presentation/d/1803dJOAIuCqsMPxDK3nKHXr-a0jf04M2tOuUZrMknmE/edit?usp=sharing) |
 
 ### Week 2: Learnability
 
