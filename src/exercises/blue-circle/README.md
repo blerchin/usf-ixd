@@ -19,6 +19,7 @@ Please turn in this assignment by sending me a link in Canvas to the project on 
 
 
 ### Rubric
+
 | Criteria | Points |
 |---|---|
 | Application code performs according to the requirements of the assignment | 4 pts |
