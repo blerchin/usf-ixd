@@ -1,7 +1,7 @@
 ## The Circle Game
 #### (apologies to Joni Mitchell)
 
-[Link to download the starter sketch](http://usf-ixd.online/src/exercises/blue-circle/blue-circle.framer.zip)
+[Link to download the starter sketch](https://framer.cloud/kIKET)
 
 You've just learned how to build [this game](http://usf-ixd.online/src/exercises/blue-circle/blue-circle.framer/index.html) in Framer. Your task now is to make the game more interesting, and to add scoring. Here are some ideas:
 - Consider adding multiple circles, or other shapes
