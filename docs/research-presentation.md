@@ -34,34 +34,35 @@ __*Start early*, especially if your presentation date coincides with another ass
 ## Topics
 
 
-Week 1: Affordances
+[Week 1: Affordances: BL](https://docs.google.com/presentation/d/1803dJOAIuCqsMPxDK3nKHXr-a0jf04M2tOuUZrMknmE/edit#slide=id.g2f279ea85c_0_0)
+“Affordances are the possible interactions between people and the environment. Some affordances are perceivable, others are not.” (Norman 19)
 
-Week 2: Learnability
+Week 2: Learnability: LS
 
-Week 3: Feedback
+Week 3: Feedback: KP
 
-Week 4: Consistency
+Week 4: Consistency: MR
 
-Week 5: Efficiency
+Week 5: Efficiency: JO
 
-Week 6: Criticality
+Week 6: Criticality: DY
 
-Week 7: Tangibility
+Week 7: Tangibility: DM
 
 Week 8: Spring Break
 
-Week 9: Emotionality
+Week 9: Emotionality: CC, AC
 
-Week 10: Sensing
+Week 10: Sensing: JY
 
-Week 11: Habit
+Week 11: Habit: HC
 
-Week 12: Temporality
+Week 12: Temporality: IF
 
-Week 13: Conversation
+Week 13: Conversation: CD
 
-Week 14: Embodiment
+Week 14: Embodiment: LV
 
-Week 15: Immersiveness
+Week 15: Immersiveness: JV
 
-Week 16: Tactics
+Week 16: Tactics: NK
