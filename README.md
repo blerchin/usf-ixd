@@ -20,7 +20,7 @@
 
 #### Instructor: Ben Lerchin
 - **Email:** <bwlerchin@usfca.edu>
-- **Office Hours:** 11:30am-12:30pm MW, XARTS Lobby
+- **Office Hours:** 11:30am-12:30pm MW, Gleeson Library 4th Floor
 
 #### Course Rationale
 The course Interaction Design will serve as an upper division studio elective in the newly expanded interdisciplinary Design curriculum.  This curriculum will offer students a comprehensive design education by providing them fluency with what we call design’s Seven Pillars of Learning: Design Process, Design Research, Digital Literacy, Design Production, Design History, Design Theory/Critical Thinking, and Design Leadership.  Interaction Design will advance student’s understanding of Design Process, Design Production, and Digital Literacy as they pertain to the practice of creating advanced interactive works and programming structures, and will provide students with advanced experience in Design Theory/Critical Thinking and Design Leadership.
