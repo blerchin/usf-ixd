@@ -7,6 +7,7 @@
 - [Resources](#resources)
 - [Structure](#structure)
 - [Schedule](#schedule)
+- [Demos](#demos)
 - [Grading](#grading)
 - [Assignments](#assignments)
 - [Policies](#policies)
@@ -201,6 +202,14 @@ All assigments are due at the start of class.
 |:---------------------------------------|:-------------------------------------------|
 |                                        | **DUE: Final Projects**                    |
 |                                        | Final Critique                             |
+
+## Demos
+
+#### Jan 28
+## Dogspotting (Social Feed App)
+Screencast: <https://www.youtube.com/watch?v=LK3AnE1Xm1Q&feature=youtu.be>
+Code: https://framer.cloud/LSNuH
+
 
 ## Code Standards
 Much of our class will be dedicated to programming. Like learning any new language or technique, programming will require practice and dedication beyond our contact time. Much can be learned by copying, pasting and altering code from resources you find online. Most everyone I know who programs (myself included) learned to code in this fashion. I expect you’ll do the same.
