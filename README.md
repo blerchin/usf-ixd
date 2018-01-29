@@ -103,7 +103,7 @@ All assigments are due at the start of class.
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
-| Introduce Project 1: Reactions | Research Presentation #2                   |
+| Introduce Project 1: Reactions | Research Presentation: Laura S.               |
 | Demo: Creating Flows in Framer    | Pair on Exercise 2: _Social Feed_          |
 | Discuss readings                  |                                            |
 
@@ -112,14 +112,14 @@ All assigments are due at the start of class.
 | Monday Feb 5                      | Wednesday Feb 7                            |
 |:----------------------------------|:-------------------------------------------|
 | Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
-| Activity: Telephone Pictionary    | Research Presentation #3                   |
+| Activity: Telephone Pictionary    | Research Presentation: Karishma            |
 | Introduce Assignment 1: Reaction  | Work time                                  |        
 
 ### Week 4: Consistency
 
 | Monday Feb 12                          | Wednesday Feb 14                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4            |
+| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4: Monica      |
 | Discuss readings                       | Work time                                  |
 | CoffeeScript best practices/Framer Q&A |                                            |
 
@@ -127,7 +127,8 @@ All assigments are due at the start of class.
 
 | Monday Feb 19                          | Wednesday Feb 21                           |
 |:---------------------------------------|:-------------------------------------------|
-| **Presidents' Day** No class.          | **DUE: Project 1: Reactions**            |
+| **Presidents' Day** No class.          | **DUE: Project 1: Reactions**              |
+|                                        | Research Presentation: Jerry               |
 |                                        | Critique                                   |
 
 ## Unit B: Physical Computing
@@ -136,7 +137,7 @@ All assigments are due at the start of class.
 
 | Monday Feb 26                          | Wednesday Feb 28                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation #5 |
+| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation: Dayna |
 | Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
 | Demo: Basic electronics with Arduino   |                                            |
 
@@ -145,7 +146,7 @@ All assigments are due at the start of class.
 | Monday Mar 5                           | Wednesday Mar 7                            |
 |:---------------------------------------|:-------------------------------------------|
 | Introduce Assigment 2                  | **DUE: Exercise #3**                       |
-| Demo: Human interfaces with arduino    | Research presentation #6                   |
+| Demo: Human interfaces with arduino    | Research presentation: Dominic             |
 | Work time                              | Work time                                  |
 
 ### Week 8: Spring Break
@@ -153,21 +154,54 @@ All assigments are due at the start of class.
 
 ### Week 9: Emotionality
 
+| Monday Mar 19                          | Wednesday Mar 21                           |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Cynthia, Aerin      |
+
 ### Week 10: Sensing
+
+| Monday Mar 19                          | Wednesday Mar 21                           |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Ji Eun              |
 
 ## Unit C: User Research & UX Design
 
 ### Week 11: Habit
 
+| Monday Mar 26                          | Wednesday Mar 28                           |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Harry               |
+
 ### Week 12: Temporality
+
+| Monday Apr 2                           | Wednesday Apr 4                            |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Ishmal              |
 
 ### Week 13: Conversation
 
+| Monday Apr 9                           | Wednesday Apr 11                           |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Carrie              |
+
 ### Week 14: Embodiment
+
+| Monday Apr 16                           | Wednesday Apr 18                          |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Laura V.            |
 
 ### Week 15: Immersiveness
 
+| Monday Apr 23                          | Wednesday Apr 25                           |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | Research presentation: Julia               |
+
 ### Week 16: Tactics
+
+| Monday Apr 30                          | Wednesday May 2                            |
+|:---------------------------------------|:-------------------------------------------|
+|                                        | **DUE: Final Projects**                    |
+|                                        | Final Critique                             |
 
 ## Code Standards
 Much of our class will be dedicated to programming. Like learning any new language or technique, programming will require practice and dedication beyond our contact time. Much can be learned by copying, pasting and altering code from resources you find online. Most everyone I know who programs (myself included) learned to code in this fashion. I expect you’ll do the same.
