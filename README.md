@@ -8,8 +8,8 @@
 - [Structure](#structure)
 - [Schedule](#schedule)
 - [Demos](#demos)
-- [Grading](#grading)
 - [Assignments](#assignments)
+- [Grading](#grading)
 - [Policies](#policies)
 
 
@@ -104,7 +104,7 @@ All assigments are due at the start of class.
 | Monday Jan 29                     | Wednesday Jan 31                           |
 |:----------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
-| Demo: Creating Flows in Framer | Research Presentation: Laura S.               |
+| Demo: [Social Feed: Dogspotting](#dogspotting-social-feed) | Research Presentation: Laura S.               |
 | Discuss readings               | Pair on Exercise 2: _Social Feed_          |
 
 ### Week 3: Feedback
@@ -206,9 +206,18 @@ All assigments are due at the start of class.
 ## Demos
 
 #### Jan 28
-## Dogspotting (Social Feed App)
+### Dogspotting (Social Feed App)
 Screencast: <https://www.youtube.com/watch?v=LK3AnE1Xm1Q&feature=youtu.be>
-Code: https://framer.cloud/LSNuH
+
+Code: <https://framer.cloud/LSNuH>
+
+## Assignments
+- [Research Presentation](docs/research-presentation.md)
+- [Reading Responses](docs/reading-response.md)
+- Project 1: Reaction
+  - Exercise 1: [Circle Game](src/exercises/blue-circle)
+  - Exercise 2: Social Feed
+- [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
 
 
 ## Code Standards
@@ -254,14 +263,6 @@ In this course, you will complete three large projects, each supported by multip
 | **10%** | **Readings & Reading Responses**. Read all assigned readings and write thoughtful responses. Engage in in-class discussions of each reading with your fellow classmates, and consider readings when developing your own work. |
 | **5%**  | **Research Presentation**. Throughout the semester, we will collectively learn about various topics in Interaction Design theory. Give a five-minute presentation to the class on the date specified for the topic you have been assigned. This presentation will entail outside research, and a synthesis of researched material to the themes and readings of this course.
 | **15%** | **Participation**. Come to class on time and prepared to discuss readings, projects, and ideas. Participation includes engagement in discussions, in-class workshops and activities, and critiques. Giving your full attention to your classmates in critiques is both expected and also a gift: nowhere else do we get the ability to have so many eyes and opinions focused on our work, with the intention to help our artistic practice develop. It is expected that you will be generous with your investment in each other’s work, and that you will show this generosity by giving your undivided attention to your classmates through the critique structure. |
-
-## Assignments
-- [Research Presentation](docs/research-presentation.md)
-- [Reading Responses](docs/reading-response.md)
-- Project 1: Reaction
-  - Exercise 1: Disappearing Button
-  - Exercise 2: Social Feed
-- [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
 
 
 ## Policies
