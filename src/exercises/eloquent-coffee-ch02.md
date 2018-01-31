@@ -15,4 +15,4 @@ You may work solo, or in pairs.
 
 When working on the examples, you may use the code editor in the browser, or work in Framer. Your homework for Wednesday Feb 7 will be to submit the solutions to these exercises as a Framer sketch.
 
-You can find _Eloquent CoffeeScript_ at the URL <eloquent.coffee>.
+You can find _Eloquent CoffeeScript_ at the URL [eloquent.coffee](httlp://eloquent.coffee).
