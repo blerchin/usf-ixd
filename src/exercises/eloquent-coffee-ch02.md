@@ -1,6 +1,7 @@
+#### Jan 31, 2018
 ## Code Camp
-### Eloquent CoffeeScript :Intro - Ch 2
-### Jan 31, 2018
+### Eloquent CoffeeScript
+### Intro — Ch 2
 
 Today we are going to step out of Framer's graphical environment and hunker down on some programming essentials. Concepts like conditionals and loops are going to be essential for us moving forward, so its worth spending some time understanding what's going on under the hood.
 
