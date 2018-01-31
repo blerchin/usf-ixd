@@ -105,7 +105,7 @@ All assigments are due at the start of class.
 |:----------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
 | Demo: [Social Feed: Dogspotting](#dogspotting-social-feed-app) | Research Presentation: Laura S.               |
-| Discuss readings               | Pair on Exercise 2: _Social Feed_          |
+| Discuss readings               | [Eloquent CoffeeScript](http://eloquent.coffee)          |
 
 ### Week 3: Feedback
 
