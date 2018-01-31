@@ -106,12 +106,13 @@ All assigments are due at the start of class.
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
 | Demo: [Social Feed: Dogspotting](#dogspotting-social-feed-app) | Research Presentation: Laura S.               |
 | Discuss readings               | [Eloquent CoffeeScript](http://eloquent.coffee)          |
+|                                | [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)      |
 
 ### Week 3: Feedback
 
 | Monday Feb 5                      | Wednesday Feb 7                            |
 |:----------------------------------|:-------------------------------------------|
-| Demo: Animations + Microinteractions | **DUE: Exercise 2, _Social Feed_**      |
+| Demo: Animations + Microinteractions | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
 | Activity: Telephone Pictionary    | Research Presentation: Karishma            |
 | Introduce Project 1: Reaction     | Work time                                  |        
 
