@@ -7,17 +7,17 @@ Social platforms and messaging apps have become one of the most crucial and wide
 
 One early example of this is adoption of abbreviations ("text-speak") like LOL, TTYL, or RTFM to signify common outcomes in conversation. This was driven in part by limitations of the technology of the time – cell phone keyboards were slow and cumbersome, and individual transmissions were limited to 255 characters. These expressions were part of the _lingua franca_ of early internet users, and eventually became widespread conventions.
 
+
 Facebook (to my knowledge) was the first to systematize this process by introducing the now-ubiquitous Like button. It was now possible to  "acknowlege" someone's message with just a click, obviating users from the need to come up with individual ways of expressing simple appreciation, or agreement. This also marks the introduction of a new way to measure "engagement" with a post, information that is particularly valuable to businesses who want to market their brand or services.
 
 These interactions have become more complex over time, with the introduction of more nuanced, but still predefined, ways of measuring engagement.
 
-Facebook allows a variety of reactions to posts on its platform.
-
-Emojis allow users to express highly nuanced and context-specific emotional responses to a post, while employing a limited and standardized vocabulary.
-
-Medium uses a "clapping" interaction to allow users to express the magnitude of their approval.
-
-Instagram and Snapchat allow users to add "polls" to their stories so viewers can vote on Yes/No or multiple choice questions.
+| :0 | xD |
+|----|----|
+| Facebook allows a variety of reactions to posts. |  ![Facebook's 'Pride' react](pride-react.jpg) |
+| Emojis allow users to express highly nuanced and context-specific emotional responses to a post, while employing a limited and standardized vocabulary. | ![Fresh prince of 🛎💨](fresh-prince-emoji.jpg)|
+| Medium uses a "clapping" interaction to allow users to express the magnitude of their approval. | ![Medium clapping react](medium-clap.gif) |
+| Instagram and Snapchat allow users to add "polls" to their stories so viewers can vote on Yes/No or multiple choice questions. | ![Introducing Polls: Marketing photo from Instagram Blog post](ig-poll.png) |
 
 ### Design Brief
 
@@ -34,6 +34,6 @@ Consider the ways that your idea would change the quality of your users' experie
 
 ### Timeline
 
-**Monday Feb 5** Intro assignment in class. Brainstorming activity.
-**Monday Feb 12** Come to class with notes on your idea. I will check in with each of you individually. This is your chance to get feedback on your idea, and suggestions for how to implement a prototype.
-**Wednesday Feb 21** In-class critique. We will load the protypes on computers in the classroom so we can test and offer feedback on each others' projects
+- **Monday Feb 5** Intro assignment in class. Brainstorming activity.
+- **Monday Feb 12** Come to class with notes on your idea. I will check in with each of you individually. This is your chance to get feedback on your idea, and suggestions for how to implement a prototype.
+- **Wednesday Feb 21** In-class critique. We will load the protypes on computers in the classroom so we can test and offer feedback on each others' projects
