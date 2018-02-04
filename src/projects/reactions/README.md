@@ -27,9 +27,11 @@ You should produce a clickable interactive prototype in Framer. Though your prot
 
 Consider the ways that your idea would change the quality of your users' experience.
 
-- How will it improve existing conversations within the service or enable new ones?
+- What unmet need does this idea address for people who use this platform?
 - How does it change the relationship between users and the owners of the platform?
 - How can users engage with this feature in creative ways that you may not have originally intended?
+- What behaviors does it encourage or disocurage?
+- What kind of emotions does it provoke? Is it joyful to use?
 
 
 ### Timeline
