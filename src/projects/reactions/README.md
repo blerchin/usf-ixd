@@ -15,7 +15,7 @@ These interactions have become more complex over time, with the introduction of 
 | :0 | xD |
 |----|----|
 | Facebook allows a variety of reactions to posts. |  ![Facebook's 'Pride' react](pride-react.jpg) |
-| Emojis allow users to express highly nuanced and context-specific emotional responses to a post, while employing a limited and standardized vocabulary. | ![Fresh prince of 🛎💨](fresh-prince-emoji.jpg)|
+| Emojis allow users to express highly nuanced and context-specific emotional responses to a post, while employing a limited and standardized vocabulary. | ![Big emoji in Facebook Messenger](fb-emoji.jpg)|
 | Medium uses a "clapping" interaction to allow users to express the magnitude of their approval. | ![Medium clapping react](medium-clap.gif) |
 | Instagram and Snapchat allow users to add "polls" to their stories so viewers can vote on Yes/No or multiple choice questions. | ![Introducing Polls: Marketing photo from Instagram Blog post](ig-poll.png) |
 
