@@ -114,7 +114,7 @@ All assigments are due at the start of class.
 |:----------------------------------|:-------------------------------------------|
 | Introduce [Project 1: Reactions](src/projects/reactions)     | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
 | Activity: [Design Sprint: Ideation](src/activities/mini-sprint)         | Research Presentation: Karishma            |
-| Demo: Arrays & user input         | Work time                                  |
+| Demo: [Arrays & Strings](#demos)         | Work time                                  |
 
 ### Week 4: Consistency
 
@@ -211,6 +211,12 @@ All assigments are due at the start of class.
 Screencast: <https://www.youtube.com/watch?v=LK3AnE1Xm1Q&feature=youtu.be>
 
 Code: <https://framer.cloud/LSNuH>
+
+#### Feb 5
+### Planets Demo (Arrays and Strings)
+Screencast: <https://youtu.be/FnA4rnvsHEs>
+
+Code: <https://framer.cloud/PpUrG>
 
 ## Assignments
 - [Research Presentation](docs/research-presentation.md)
