@@ -14,7 +14,7 @@ Spend 10 minutes writing down _Insights_. This can be anything you know about ho
  - Example: People usually have time to respond to messages when they are on public transit.
 
 ### Solution
-Mix up everyone's insights. Spend 20 minutes combining a _Problem_ and an _Insight_ from the pile to come up with a _Solution_. Place the problem and insight on the page, and write down your solution. If you want to re-use a problem or insight, just write it directly on the page.
+Mix up everyone's insights. Spend 20 minutes combining a _Problem_ and an _Insight_ from the pile to come up with a _Solution_. Place the problem and insight on the page, and write down your solution. If you want to re-use a problem or insight, just write it directly on the page. Come up with as many solutions as you can.
 - Example: Users can mark a post as "respond later." Next time they are at a bus stop or train station, they get a notification linking them to the post they marked so they can respond while they are waiting.
 
 ### Voting
