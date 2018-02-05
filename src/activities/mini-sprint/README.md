@@ -19,3 +19,6 @@ Mix up everyone's insights. Spend 20 minutes combining a _Problem_ and an _Insig
 
 ### Voting
 Everyone in the class gets 5 chips. They all count the same, even if they're different colors. Read through everyone's ideas, and place a chip on each of the five ideas you think is best. You can only place one chip per idea.
+
+### Results (Feb 5 2018)
+![](reaction-sprint-ideas.jpg)
