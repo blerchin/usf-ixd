@@ -112,9 +112,9 @@ All assigments are due at the start of class.
 
 | Monday Feb 5                      | Wednesday Feb 7                            |
 |:----------------------------------|:-------------------------------------------|
-| Demo: Animations + Microinteractions | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
-| Activity: Telephone Pictionary    | Research Presentation: Karishma            |
-| Introduce Project 1: Reaction     | Work time                                  |        
+| Introduce [Project 1: Reactions](src/projects/reactions)     | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
+| Activity: [Design Sprint: Ideation](src/exercises/mini-sprint)         | Research Presentation: Karishma            |
+| Demo: Arrays & user input         | Work time                                  |
 
 ### Week 4: Consistency
 
