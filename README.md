@@ -113,7 +113,7 @@ All assigments are due at the start of class.
 | Monday Feb 5                      | Wednesday Feb 7                            |
 |:----------------------------------|:-------------------------------------------|
 | Introduce [Project 1: Reactions](src/projects/reactions)     | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
-| Activity: [Design Sprint: Ideation](src/exercises/mini-sprint)         | Research Presentation: Karishma            |
+| Activity: [Design Sprint: Ideation](src/activities/mini-sprint)         | Research Presentation: Karishma            |
 | Demo: Arrays & user input         | Work time                                  |
 
 ### Week 4: Consistency
@@ -215,10 +215,11 @@ Code: <https://framer.cloud/LSNuH>
 ## Assignments
 - [Research Presentation](docs/research-presentation.md)
 - [Reading Responses](docs/reading-response.md)
-- Project 1: Reaction
+- [Project 1: Reaction](src/projects/reactions)
   - Exercise 1: [Circle Game](src/exercises/blue-circle)
-  - Exercise 2: Social Feed
+  - Exercise 2, [Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)
 - [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
+- [Activity: Mini Sprint](src/activities/mini-sprint)
 
 
 ## Code Standards
