@@ -122,7 +122,7 @@ All assigments are due at the start of class.
 |:---------------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4: Monica      |
 | Discuss readings                       | Work time                                  |
-| CoffeeScript best practices/Framer Q&A |                                            |
+| Demo: [User Input & Microinteractions](#demos) |                                            |
 
 ### Week 5: Efficiency
 
@@ -208,15 +208,19 @@ All assigments are due at the start of class.
 
 #### Jan 28
 ### Dogspotting (Social Feed App)
-Screencast: <https://www.youtube.com/watch?v=LK3AnE1Xm1Q&feature=youtu.be>
-
-Code: <https://framer.cloud/LSNuH>
+- Screencast: <https://www.youtube.com/watch?v=LK3AnE1Xm1Q&feature=youtu.be>
+- Code: <https://framer.cloud/LSNuH>
 
 #### Feb 5
 ### Planets Demo (Arrays and Strings)
-Screencast: <https://youtu.be/FnA4rnvsHEs>
+- Screencast: <https://youtu.be/FnA4rnvsHEs>
+- Code: <https://framer.cloud/PpUrG>
 
-Code: <https://framer.cloud/PpUrG>
+#### Feb 12
+### Button Demo (User Input and Microinteractions)
+- Screencast: <https://youtu.be/QQheFb9Lxko>
+- Code: <https://framer.cloud/eHBkv>
+
 
 ## Assignments
 - [Research Presentation](docs/research-presentation.md)
