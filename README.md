@@ -138,7 +138,7 @@ All assigments are due at the start of class.
 
 | Monday Feb 26                          | Wednesday Feb 28                           |
 |:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf), [Manovich](readings/manovich--language-new-media.pdf) | Research Presentation: Dayna |
+| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf) | Research Presentation: Dayna |
 | Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
 | Demo: Basic electronics with Arduino   |                                            |
 
