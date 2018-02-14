@@ -10,4 +10,4 @@ Please write a short reflection (150-300 words) on each reading assignment. Show
 - What connections can you make to ideas you have encountered in your other classes?
 - What was challenging, or difficult to understand?
 
-Your responses should be saved in GitHub and submitted to me as a Pull Request. We will go over how to do this in class. **Please note that once I have accepted your PR, your responses will be visible to the whole class.**
+Please submit your responses in Canvas.
