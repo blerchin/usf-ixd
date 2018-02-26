@@ -69,7 +69,7 @@ By the end of the semester, students will be expected to:
 - _Making Things Talk: Practical Methods for Connecting Phisical Objects_, Tom Igoe, Make, 2007
 - _Mapping Experiences_, Jim Kalbach, O'Reilly Media, 2016
 - _Universal Principles of Design_, Lidwell et. al., Rockport, 2003
-- _Getting Started in Electronics_, Forrest M. Mimms III, 1983
+- [_Getting Started in Electronics_](readings/forrest--getting-started-in-electronics.pdf), Forrest M. Mimms III, 1983
 - _Designing Interactions_, Bill Moggridge, MIT Press, 2007
 - _Programming Arduino: Getting Started with Sketches_, Simon Monk, McGraw-Hill, 2016
 - _The Design of Everyday Things_, Don Norman, 1988
@@ -157,13 +157,13 @@ All assigments are due at the start of class.
 
 ### Week 9: Emotionality
 
-| Monday Mar 19                          | Wednesday Mar 21                           |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Cynthia, Aerin      |
+| Monday Mar 19 | Wednesday Mar 21 |
+|:---|:---|
+| | Research presentation: Cynthia, Aerin      |
 
 ### Week 10: Sensing
 
-| Monday Mar 19                          | Wednesday Mar 21                           |
+| Monday Mar 19 | Wednesday Mar 21                           |
 |:---------------------------------------|:-------------------------------------------|
 |                                        | Research presentation: Ji Eun              |
 
@@ -230,6 +230,8 @@ All assigments are due at the start of class.
 - [Project 1: Reaction](src/projects/reactions)
   - Exercise 1: [Circle Game](src/exercises/blue-circle)
   - Exercise 2, [Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)
+- Project 2: TBA
+  - Exercise 3: [Electronics Lab](src/exercises/electronics-intro)
 - [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
 - [Activity: Mini Sprint](src/activities/mini-sprint)
 
