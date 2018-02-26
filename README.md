@@ -139,16 +139,18 @@ All assigments are due at the start of class.
 | Monday Feb 26                          | Wednesday Feb 28                           |
 |:---------------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf) | Research Presentation: Dayna |
-| Discuss readings                       | Work on Exercise #3: Volts, Amps & Frequency |
-| Demo: Basic electronics with Arduino   |                                            |
+| Discuss readings                       | Work on Exercise #3 |
+| Presentation: [Basic Electronics](https://docs.google.com/presentation/d/19bSTwTEplLl03ijImc3MVLVvpqxQGxVduSZ1xGlC0I8/edit?usp=sharing)   |                                            |
+| Start Exercise 3: [Electronics Lab](src/exercises/electronics-intro) | |
 
 ### Week 7: Tangibility
 
-| Monday Mar 5                           | Wednesday Mar 7                            |
-|:---------------------------------------|:-------------------------------------------|
-| Introduce Assigment 2                  | **DUE: Exercise #3**                       |
-| Demo: Human interfaces with arduino    | Research presentation: Dominic             |
-| Work time                              | Work time                                  |
+| Monday Mar 5 | Wednesday Mar 7 |
+|:---|:---|
+| **DUE: Culkin & Hagan, _Learn Electronics_** pp. 31-71 and pp. 148-192 | **DUE: Exercise #3** |
+| _No response due for this reading_ | Introduce Assignment #2 |
+| Demo: Human interfaces with Arduino | Research presentation: Dominic |
+| Work time | Work time |
 
 ### Week 8: Spring Break
 🏝 No class 🏝
@@ -234,7 +236,7 @@ All assigments are due at the start of class.
 
 ## Code Standards
 Much of our class will be dedicated to programming. Like learning any new language or technique, programming will require practice and dedication beyond our contact time. Much can be learned by copying, pasting and altering code from resources you find online. Most everyone I know who programs (myself included) learned to code in this fashion. I expect you’ll do the same.
-						
+
 It is okay to utilize code, libraries and resources found online in service to your project. If you do this — and again, I expect you will — you must cite the author of the source code at the bottom your own scripts. You can do this with some commented code of your own. I expect you’ll follow the University of Arkansas guidelines for citing computer code (http://uark.libguides.com/c.php? g=78829&p=506916). An example of this might look as follows:
 
 ```
@@ -248,13 +250,13 @@ It is okay to utilize code, libraries and resources found online in service to y
 ************/
 ```
 
-In addition, as with any other form of plagiarism, there is a difference between copying a work in its entirety and leveraging it as a resource. That means there’s a difference between utilizing a demo as a resource and submitting it wholesale as your work. I can tell the difference. As with all forms of plagiarism, please refer to the section in this syllabus on Academic Integrity. And by all means, feel free to ask me if you feel unsure with what you are submitting. 
+In addition, as with any other form of plagiarism, there is a difference between copying a work in its entirety and leveraging it as a resource. That means there’s a difference between utilizing a demo as a resource and submitting it wholesale as your work. I can tell the difference. As with all forms of plagiarism, please refer to the section in this syllabus on Academic Integrity. And by all means, feel free to ask me if you feel unsure with what you are submitting.
 
 
 ## Grading
 
-### Letter Grade Definitions 
-Assignments are invitations to experiment, invent, iterate, and refine. Creative, ambitious projects will receive high marks, while easily obtained or obvious solutions will receive lower marks. Grading will be determined based on conceptual approaches to each assignment, and its execution -- that is, the project's ability to successfully communicate to its intended audience. 
+### Letter Grade Definitions
+Assignments are invitations to experiment, invent, iterate, and refine. Creative, ambitious projects will receive high marks, while easily obtained or obvious solutions will receive lower marks. Grading will be determined based on conceptual approaches to each assignment, and its execution -- that is, the project's ability to successfully communicate to its intended audience.
 
 | Letter Grade | Requirements |
 | :--- | :--- |
@@ -288,21 +290,21 @@ Our final project will take the place of an exam and counts for 30% of your grad
 
 ### Classroom Etiquette + Technology Policy
 Most of this course will be spent in guided discussion as lectures, project critiques, and seminars. This course will follow a hybrid lecture/studio format. A small amount of time for project work will be provided, but the majority of your individual project work must occur outside of class.
-						
+
 In-class work time must be used toward this course only. No email, text messaging, mobile devices, Facebook-ing, iTunes-playing, YouTube-watching, or other extraneous activities during class. First time offences will result in a warning. Second-time offenders will be publicly reprimanded. Subsequent offenses will count as one tardy appearance. See [attendance](#attendance).
 
 We’ll use technology a lot in this class, but we will also be conscious of its distracting nature.
 
 ### Food and Drink
-**Allowed on the center lab tables only!!** Food and drink are strictly prohibited near lab equipment. 
+**Allowed on the center lab tables only!!** Food and drink are strictly prohibited near lab equipment.
 
 Generally, you may bring food into class, but please avoid bringing or consuming anything that will be noisy, smelly, or otherwise distracting.
 
 ### Data Management				
 Most of your work for this course will be stored in digital form, so it is critical to manage your files carefully. “My hard drive crashed” is not a valid reason for failing to submit work on time.
-						
+
 Think about how much work you are willing to lose. 30 minutes? 5 hours? 3 weeks?
-								
+
 You should back up all of your digital files at least this often. I recommend either using an online service (e.g., backblaze.com or mozy.com) and/or investing in an external hard drive and automated backup software (like Time Machine). **Do not rely on a single backup solution.** We will be learning to use `git` for source control. I encourage you to use this tool as part of your risk mitigation strategy.
 
 ### Email Communication
@@ -321,7 +323,7 @@ Work done in the Design Program at USF must consist of original work done by the
 
 Students will observe and respect the University’s policy regarding academic integrity as noted in the USF Honor Code. As this policy stipulates, all written and visual work submitted for this course, whether in draft or final form, must not represent the words, visuals or ideas of another person without reference or citation. Violations of academic integrity include cheating, plagiarism, false citations, submitting the same work for multiple assignments, submitting false data, and falsifying documentation. Any student who violates the USF Honor Code can expect to receive a failing grade for the project and/or the course.
 
-Plagiarism and creative integrity are not only of vital importance to the University and your academic career, but also to your professional career beyond graduation. Plagiarism of written or visual work is a serious offence punishable by law. 
+Plagiarism and creative integrity are not only of vital importance to the University and your academic career, but also to your professional career beyond graduation. Plagiarism of written or visual work is a serious offence punishable by law.
 
 A full copy of the USF Honor Code can be found here:  <http://www.usfca.edu/catalog/policies/honor/>
 
@@ -331,7 +333,7 @@ If you are a student with a disability or disabling condition, or if you think y
 ### Behavioral Expectations
 All students are expected to behave in accordance with the Student Conduct Code and other University policies (see <http://www.usfca.edu/fogcutter/>).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code.
 
- 
+
 ### Learning & Writing Center
 The Learning, Writing, and Speaking Centers at USF provide individualized support to assist you in better understanding course material and to aid you on your path to success. Services are free and include one-on-one tutoring, group tutoring, and one-on-one Academic Skills Coaching appointments to discuss effective study strategies. The Writing Center helps students develop their writing skills in rhetoric, organization, style, and structure, through one-on-one interactive conferences. The Speaking Center helps students prepare for public speaking — including speeches, oral presentations, team presentations, and visual aid demonstrations. International students may also contact us to learn more about communicating with professors and general academic study skills. The Learning, Writing, and Speaking Centers are located on the Lower Level of Gleeson Library. Please contact them at (415) 422-6713 for further assistance or visit the LWC website to make an appointment.
 
