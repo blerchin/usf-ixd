@@ -139,9 +139,9 @@ All assigments are due at the start of class.
 | Monday Feb 26                          | Wednesday Feb 28                           |
 |:---------------------------------------|:-------------------------------------------|
 | **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf) | Research Presentation: Dayna |
-| Discuss readings                       | Work on Exercise #3 |
-| Presentation: [Basic Electronics](https://docs.google.com/presentation/d/19bSTwTEplLl03ijImc3MVLVvpqxQGxVduSZ1xGlC0I8/edit?usp=sharing)   |                                            |
-| Start Exercise 3: [Electronics Lab](src/exercises/electronics-intro) | |
+| Discuss readings                       | Presentation: [Speculative Interactions](https://docs.google.com/presentation/d/1bDl7lt1h9rSPIEl16bJGKRneycJq7qJb4lk2DQec8qI/edit?usp=sharing) |
+| Presentation: [Basic Electronics](https://docs.google.com/presentation/d/19bSTwTEplLl03ijImc3MVLVvpqxQGxVduSZ1xGlC0I8/edit?usp=sharing)|
+| Start Exercise 3: [Electronics Lab](src/exercises/electronics-intro) | Work on Exercise 3 |
 
 ### Week 7: Tangibility
 
