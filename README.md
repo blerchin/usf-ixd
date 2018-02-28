@@ -101,45 +101,45 @@ All assigments are due at the start of class.
 
 ### Week 2: Learnability
 
-| Monday Jan 29                     | Wednesday Jan 31                           |
-|:----------------------------------|:-------------------------------------------|
+| Monday Jan 29 | Wednesday Jan 31 |
+| :--- |:--- |
 | **DUE: Reading Response:** [Rheingold](http://www.rheingold.com/texts/tft/02.html#Chap02) (up to "George Boole"), [Norman](readings/norman--psychopathology-everyday-actions.pdf) | **DUE: Exercise 1, [Circle Game](src/exercises/blue-circle)** |
-| Demo: [Social Feed: Dogspotting](#dogspotting-social-feed-app) | Research Presentation: Laura S.               |
-| Discuss readings               | [Eloquent CoffeeScript](http://eloquent.coffee)          |
-|                                | [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)      |
+| Demo: [Social Feed: Dogspotting](#dogspotting-social-feed-app) | Research Presentation: Laura S., [Learnability](https://docs.google.com/presentation/d/e/2PACX-1vRsk-DIUB3GqBrbVNQf9nkvenxxM8C9-ewemFhdi4zB12yjxwv3Av60dTjUJmF6dGscRADEcFo4pb6p/pub?start=false&loop=false) |
+| Discuss readings | [Eloquent CoffeeScript](http://eloquent.coffee) |
+| | [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md) |
 
 ### Week 3: Feedback
 
-| Monday Feb 5                      | Wednesday Feb 7                            |
-|:----------------------------------|:-------------------------------------------|
-| Introduce [Project 1: Reactions](src/projects/reactions)     | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)**      |
-| Activity: [Design Sprint: Ideation](src/activities/mini-sprint)         | Research Presentation: Karishma            |
-| Demo: [Arrays & Strings](#demos)         | Work time                                  |
+| Monday Feb 5 | Wednesday Feb 7 |
+| :--- | :--- |
+| Introduce [Project 1: Reactions](src/projects/reactions) | **DUE: [Exercise 2, Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)** |
+| Activity: [Design Sprint: Ideation](src/activities/mini-sprint) | Research Presentation: Karishma, [Feedback](https://docs.google.com/presentation/d/e/2PACX-1vRXUgJBQYtwEIzmEmfg7eBsSzA1VEJq421dF1l7Y1HYkvJUzD6i_nancCvEokw6Pba-oUbiS4dEVTVT/pub?start=false&loop=false) |
+| Demo: [Arrays & Strings](#demos) | Work time |
 
 ### Week 4: Consistency
 
-| Monday Feb 12                          | Wednesday Feb 14                           |
-|:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4: Monica      |
-| Discuss readings                       | Work time                                  |
-| Demo: [User Input & Microinteractions](#demos) |                                            |
+| Monday Feb 12 | Wednesday Feb 14 |
+| :--- | :--- |
+| **DUE: Reading Response:** [Murray](readings/murray--design-evolving-medium.pdf), [Verplank](readings/verplank--designing-interactions.pdf)  | Research Presentation #4: Monica, [Consistency](https://docs.google.com/presentation/d/e/2PACX-1vRIosglE7yMNkc4an971BX30OjKDyw6GU_qipHcSZLoQMralKjoVddwF912ExfZJmsaNrI-y_jzl5XS/pub?start=false&loop=false) |
+| Discuss readings | Work time |
+| Demo: [User Input & Microinteractions](#demos) | |
 
 ### Week 5: Efficiency
 
-| Monday Feb 19                          | Wednesday Feb 21                           |
-|:---------------------------------------|:-------------------------------------------|
-| **Presidents' Day** No class.          | **DUE: Project 1: Reactions**              |
-|                                        | Research Presentation: Jerry               |
-|                                        | Critique                                   |
+| Monday Feb 19 | Wednesday Feb 21 |
+| :--- | :--- |
+| **Presidents' Day** No class. | **DUE: Project 1: Reactions** |
+| | Research Presentation: Jerry, [Efficiency](https://docs.google.com/presentation/d/e/2PACX-1vQMHL-UKEekDXXugKpD3Mj0jPozwXYXhDl0Q832IIGtSGZ56gq4xZ6RFNqLL87K6tgQ9cLuAfxn7H1p/pub?start=false&loop=false) |
+| | Critique |
 
 ## Unit B: Physical Computing
 
 ### Week 6: Criticality
 
-| Monday Feb 26                          | Wednesday Feb 28                           |
-|:---------------------------------------|:-------------------------------------------|
-| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf) | Research Presentation: Dayna |
-| Discuss readings                       | Presentation: [Speculative Interactions](https://docs.google.com/presentation/d/1bDl7lt1h9rSPIEl16bJGKRneycJq7qJb4lk2DQec8qI/edit?usp=sharing) |
+| Monday Feb 26 | Wednesday Feb 28 |
+| :--- |:--- |
+| **DUE: Reading Response:** [Dunne & Raby](readings/dunne-raby--design-noir.pdf) | Research Presentation: Dayna, [Criticality](https://docs.google.com/presentation/d/e/2PACX-1vT_ZC4LbzM720nnYdkkrDXRA0NPWGdDO8H3U-HLT9UuOX3QF8x36RM1o8tg1tr0ogHa_kGWPRmQuoEb/pub?start=false&loop=false) |
+| Discuss readings | Presentation: [Speculative Interactions](https://docs.google.com/presentation/d/1bDl7lt1h9rSPIEl16bJGKRneycJq7qJb4lk2DQec8qI/edit?usp=sharing) |
 | Presentation: [Basic Electronics](https://docs.google.com/presentation/d/19bSTwTEplLl03ijImc3MVLVvpqxQGxVduSZ1xGlC0I8/edit?usp=sharing)|
 | Start Exercise 3: [Electronics Lab](src/exercises/electronics-intro) | Work on Exercise 3 |
 
@@ -163,48 +163,48 @@ All assigments are due at the start of class.
 
 ### Week 10: Sensing
 
-| Monday Mar 19 | Wednesday Mar 21                           |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Ji Eun              |
+| Monday Mar 19 | Wednesday Mar 21 |
+|:--- | :--- |
+| | Research presentation: Ji Eun |
 
 ## Unit C: User Research & UX Design
 
 ### Week 11: Habit
 
-| Monday Mar 26                          | Wednesday Mar 28                           |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Harry               |
+| Monday Mar 26 | Wednesday Mar 28 |
+|:--- | :--- |
+| | Research presentation: Harry |
 
 ### Week 12: Temporality
 
-| Monday Apr 2                           | Wednesday Apr 4                            |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Ishmal              |
+| Monday Apr 2 | Wednesday Apr 4 |
+|:--- | :--- |
+| | Research presentation: Ishmal |
 
 ### Week 13: Conversation
 
-| Monday Apr 9                           | Wednesday Apr 11                           |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Carrie              |
+| Monday Apr 9 | Wednesday Apr 11 |
+|:--- | :--- |
+| | Research presentation: Carrie |
 
 ### Week 14: Embodiment
 
-| Monday Apr 16                           | Wednesday Apr 18                          |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Laura V.            |
+| Monday Apr 16 | Wednesday Apr 18 |
+|:--- | :--- |
+| | Research presentation: Laura V. |
 
 ### Week 15: Immersiveness
 
-| Monday Apr 23                          | Wednesday Apr 25                           |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | Research presentation: Julia               |
+| Monday Apr 23 | Wednesday Apr 25 |
+|:--- | :--- |
+| | Research presentation: Julia |
 
 ### Week 16: Tactics
 
-| Monday Apr 30                          | Wednesday May 2                            |
-|:---------------------------------------|:-------------------------------------------|
-|                                        | **DUE: Final Projects**                    |
-|                                        | Final Critique                             |
+| Monday Apr 30 | Wednesday May 2 |
+| :--- | :--- |
+| | **DUE: Final Projects** |
+| | Final Critique |
 
 ## Demos
 
