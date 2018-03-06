@@ -149,7 +149,7 @@ All assigments are due at the start of class.
 |:---|:---|
 | **DUE: Culkin & Hagan, _Learn Electronics_** pp. 31-71 and pp. 148-192 | **DUE: Exercise #3** |
 | _No response due for this reading_ | Introduce Assignment #2 |
-| Demo: Human interfaces with Arduino | Research presentation: Dominic |
+| Demo: [Human interfaces with Arduino](#demos) | Research presentation: Dominic |
 | Work time | Work time |
 
 ### Week 8: Spring Break
@@ -167,8 +167,6 @@ All assigments are due at the start of class.
 |:--- | :--- |
 | | Research presentation: Ji Eun |
 
-## Unit C: User Research & UX Design
-
 ### Week 11: Habit
 
 | Monday Mar 26 | Wednesday Mar 28 |
@@ -180,6 +178,8 @@ All assigments are due at the start of class.
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
 | | Research presentation: Ishmal |
+
+## Unit C: User Research & UX Design
 
 ### Week 13: Conversation
 
@@ -222,6 +222,13 @@ All assigments are due at the start of class.
 ### Button Demo (User Input and Microinteractions)
 - Screencast: <https://youtu.be/QQheFb9Lxko>
 - Code: <https://framer.cloud/eHBkv>
+
+#### Mar 5
+### Intro to Arduino
+- Screencast: <https://youtu.be/Dq04fEQekW4>
+- Code:
+  - [LED Blink](src/demos/arduino-intro/led--on-off.zip)
+  - [LED Dim](src/demos/arduino-intro/led--dim.zip)
 
 
 ## Assignments
