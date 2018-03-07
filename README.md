@@ -149,7 +149,7 @@ All assigments are due at the start of class.
 |:---|:---|
 | **DUE: Culkin & Hagan, _Learn Electronics_** pp. 31-71 and pp. 148-192 | **DUE: Exercise #3** |
 | _No response due for this reading_ | Introduce Assignment #2 |
-| Demo: [Human interfaces with Arduino](#demos) | Research presentation: Dominic |
+| Demo: [Human interfaces with Arduino](#demos) | Research presentation: [Dominic](https://docs.google.com/presentation/d/e/2PACX-1vTQf5AVvJrrbI5H0wB7sXBXCVub08YBD29wXIyQuoP-r-3YmkX1_cMUeBrGi3cvcXwbdExGVMCsXCFA/pub?start=false&loop=false) |
 | Work time | Work time |
 
 ### Week 8: Spring Break
