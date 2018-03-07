@@ -1,5 +1,6 @@
 etc
 .env
 .DS_Store
-test/autograder
 node_modules
+_site
+.sass-cache/
