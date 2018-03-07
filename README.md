@@ -159,6 +159,7 @@ All assigments are due at the start of class.
 
 | Monday Mar 19 | Wednesday Mar 21 |
 |:---|:---|
+| **DUE: Reading Response** Moggridge, _Designing Interactions_, "Multisensory and Multimedia" | |
 | | Research presentation: Cynthia, Ji Eun |
 
 ### Week 10: Habit
