@@ -155,51 +155,46 @@ All assigments are due at the start of class.
 ### Week 8: Spring Break
 🏝 No class 🏝
 
-### Week 9: Emotionality
+### Week 9: Emotionality and Sensing
 
 | Monday Mar 19 | Wednesday Mar 21 |
 |:---|:---|
-| | Research presentation: Cynthia, Aerin      |
+| | Research presentation: Cynthia, Ji Eun |
 
-### Week 10: Sensing
-
-| Monday Mar 19 | Wednesday Mar 21 |
-|:--- | :--- |
-| | Research presentation: Ji Eun |
-
-### Week 11: Habit
+### Week 10: Habit
 
 | Monday Mar 26 | Wednesday Mar 28 |
 |:--- | :--- |
 | | Research presentation: Harry |
 
-### Week 12: Temporality
+### Week 11: Temporality
 
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
+| | **DUE: Project 2: Critical Objects** |
 | | Research presentation: Ishmal |
 
 ## Unit C: User Research & UX Design
 
-### Week 13: Conversation
+### Week 12: Conversation
 
 | Monday Apr 9 | Wednesday Apr 11 |
 |:--- | :--- |
 | | Research presentation: Carrie |
 
-### Week 14: Embodiment
+### Week 13: Embodiment
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| | Research presentation: Laura V. |
+| | Research presentation: Aerin |
 
-### Week 15: Immersiveness
+### Week 14: Immersiveness
 
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
 | | Research presentation: Julia |
 
-### Week 16: Tactics
+### Week 15: Tactics
 
 | Monday Apr 30 | Wednesday May 2 |
 | :--- | :--- |
@@ -237,7 +232,7 @@ All assigments are due at the start of class.
 - [Project 1: Reaction](src/projects/reactions)
   - Exercise 1: [Circle Game](src/exercises/blue-circle)
   - Exercise 2, [Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)
-- Project 2: TBA
+- [Project 2: Critical Objects](src/projects/critical-objects)
   - Exercise 3: [Electronics Lab](src/exercises/electronics-intro)
 - [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
 - [Activity: Mini Sprint](src/activities/mini-sprint)
