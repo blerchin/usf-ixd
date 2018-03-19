@@ -20,4 +20,4 @@ Your group will be randomly assigned a persona. Your job is to design a wallet f
 
 Start sketching out some ideas. Your ideas can be ridiculous or impractical, but they should respond to a real need, and manifest in a physical prototype that you can show to the class. Make a cardboard prototype of the object you’ve designed. We’ll hold a mini-critique of these objects at the end of class.
 
-[View Personas](src/activities/extreme-personas/personas.pdf)
+[View Personas](personas.pdf)
