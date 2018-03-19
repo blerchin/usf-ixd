@@ -159,20 +159,22 @@ All assigments are due at the start of class.
 
 | Monday Mar 19 | Wednesday Mar 21 |
 |:---|:---|
-| Electronics and Arduino Review | **DUE: Reading Response** [Moggridge, _Designing Interactions_, "Multisensory and Multimedia"](readings/moggridge--multimedia-multisensory.pdf) |
-| Brainstorming activity | Research presentation: Cynthia, Ji Eun |
+| [Survey of Critical Objects](src/projects/critical-objects/references) | **DUE: Reading Response** [Moggridge, _Designing Interactions_, "Multisensory and Multimedia"](readings/moggridge--multimedia-multisensory.pdf) |
+| Activity: [Extreme Personas](src/activities/extreme-personas) | Research presentation: Cynthia, Ji Eun |
+| | Feedback on project ideas |
 
 ### Week 10: Habit
 
 | Monday Mar 26 | Wednesday Mar 28 |
 |:--- | :--- |
-| | Research presentation: Harry |
+| Demo: Working with motors | Research presentation: Harry |
+| Work on Projects | Work on Projects
 
 ### Week 11: Temporality
 
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
-| | **DUE: Project 2: Critical Objects** |
+| Work on Projects | **DUE: Project 2: Critical Objects** |
 | | Research presentation: Ishmal |
 
 ## Unit C: User Research & UX Design
@@ -181,23 +183,34 @@ All assigments are due at the start of class.
 
 | Monday Apr 9 | Wednesday Apr 11 |
 |:--- | :--- |
-| | Research presentation: Carrie |
+| **DUE: Reading Response, Cooper, _About Face_, Ch. 4-5** | Research presentation: Carrie |
+| Activity: User Interviews | Introduce Project 3 |
 
 ### Week 13: Embodiment
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| | Research presentation: Aerin |
+| **DUE: Reading Response, Kalbach, _Mapping Experience_** | Research presentation: Aerin |
+| Demo: Experience mapping | Feedback on project ideas |
+| Activity: Experience Mapping | |
 
 ### Week 14: Immersiveness
 
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
-| | Research presentation: Julia |
+| Work Time | Research presentation: Julia |
+| | Work Time |
 
 ### Week 15: Tactics
 
 | Monday Apr 30 | Wednesday May 2 |
+| :--- | :--- |
+| Work Time | Work Time |
+|      |      |
+
+### Week 16: Scale
+
+| Monday Apr 7 | Wednesday May 9 |
 | :--- | :--- |
 | | **DUE: Final Projects** |
 | | Final Critique |
@@ -277,8 +290,8 @@ In this course, you will complete three large projects, each supported by multip
 | Weight | Project |
 | :---   | :--- |
 | **20%** | **Project 1: Reaction**. Reconceive an existing platform with a new way of engaging with, or responding to content. Present a clickable 2D prototype in Framer. |
-| **20%** | **Project 2: TBA**. Present a physical prototype built in Arduino. |
-| **30%**   | **Project 3: TBA**. Research, test, and document a solution to a problematic digital interaction you have identified. Your choice of media. |
+| **20%** | **Project 2: Critical Objects**. Present a physical prototype built using Arduino. |
+| **30%**   | **Project 3: User Research**. Test and validate a project you, or someone else created with people in its target demographic. Document and prototype changes to the project based on this feedback. |
 | **10%** | **Readings & Reading Responses**. Read all assigned readings and write thoughtful responses. Engage in in-class discussions of each reading with your fellow classmates, and consider readings when developing your own work. |
 | **5%**  | **Research Presentation**. Throughout the semester, we will collectively learn about various topics in Interaction Design theory. Give a five-minute presentation to the class on the date specified for the topic you have been assigned. This presentation will entail outside research, and a synthesis of researched material to the themes and readings of this course.
 | **15%** | **Participation**. Come to class on time and prepared to discuss readings, projects, and ideas. Participation includes engagement in discussions, in-class workshops and activities, and critiques. Giving your full attention to your classmates in critiques is both expected and also a gift: nowhere else do we get the ability to have so many eyes and opinions focused on our work, with the intention to help our artistic practice develop. It is expected that you will be generous with your investment in each other’s work, and that you will show this generosity by giving your undivided attention to your classmates through the critique structure. |
