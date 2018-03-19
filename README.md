@@ -210,9 +210,9 @@ All assigments are due at the start of class.
 
 ### Week 16: Scale
 
-| Monday Apr 7 | Wednesday May 9 |
+| Monday May 7 | Wednesday May 9 |
 | :--- | :--- |
-| | **DUE: Final Projects** |
+| Work Time | **DUE: Final Projects** |
 | | Final Critique |
 
 ## Demos

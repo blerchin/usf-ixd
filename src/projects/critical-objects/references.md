@@ -10,9 +10,9 @@ https://soundcloud.com/officialsxsw/disrupting-dystopia-the-bruce-sterling-talk-
 - Benjamin Bratton, [_On Speculative Design_](
 http://dismagazine.com/discussion/81971/on-speculative-design-benjamin-h-bratton/)
 
-- Lev Manovitch, [_The Language of New Media_](readings/manovich--language-new-media.pdf)
+- Lev Manovitch, [_The Language of New Media_](/readings/manovich--language-new-media.pdf)
 
-- Dune and Raby, [_Speculative Everything_](readings/dunne-raby--speculative-everything.pdf)
+- Dune and Raby, [_Speculative Everything_](/readings/dunne-raby--speculative-everything.pdf)
 
 - The Yes Men, [Actipedia](https://actipedia.org/)
 
