@@ -183,14 +183,14 @@ All assigments are due at the start of class.
 
 | Monday Apr 9 | Wednesday Apr 11 |
 |:--- | :--- |
-| **DUE: Reading Response, Cooper, _About Face_, Ch. 4-5** | Research presentation: Carrie |
+| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Carrie |
 | Activity: User Interviews | Introduce Project 3 |
 
 ### Week 13: Embodiment
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| **DUE: Reading Response, Kalbach, _Mapping Experience_** | Research presentation: Aerin |
+| [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach-mapping-experiences.pdf) | Research presentation: Aerin |
 | Demo: Experience mapping | Feedback on project ideas |
 | Activity: Experience Mapping | |
 
