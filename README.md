@@ -167,7 +167,7 @@ All assigments are due at the start of class.
 
 | Monday Mar 26 | Wednesday Mar 28 |
 |:--- | :--- |
-| Demo: Working with motors | Research presentation: Harry |
+| Demo: [Prototyping with Input/Output Devices](https://www.youtube.com/watch?v=ziX64gwvcH8) | Research presentation: Harry |
 | Work on Projects | Work on Projects
 
 ### Week 11: Temporality
@@ -240,6 +240,10 @@ All assigments are due at the start of class.
   - [LED Blink](src/demos/arduino-intro/led--on-off.zip)
   - [LED Dim](src/demos/arduino-intro/led--dim.zip)
 
+#### Mar 26
+### Prototyping with Input/Output Devices
+- Screencast: <https://www.youtube.com/watch?v=ziX64gwvcH8>
+- Code: [Hello/Nice](src/demos/prototyping-input-output/HelloNice.ino)
 
 ## Assignments
 - [Research Presentation](docs/research-presentation.md)
