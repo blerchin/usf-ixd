@@ -160,14 +160,14 @@ All assigments are due at the start of class.
 | Monday Mar 19 | Wednesday Mar 21 |
 |:---|:---|
 | [Survey of Critical Objects](src/projects/critical-objects/references) | **DUE: Reading Response** [Moggridge, _Designing Interactions_, "Multisensory and Multimedia"](readings/moggridge--multimedia-multisensory.pdf) |
-| Activity: [Extreme Personas](src/activities/extreme-personas) | Research presentation: Cynthia, Ji Eun |
+| Activity: [Extreme Personas](src/activities/extreme-personas) | Research presentation: [Cynthia](https://docs.google.com/presentation/d/e/2PACX-1vTfDeFxea0ZIMkJs3-NnAr2B_t1OxSX7YGDLdocHER3RFgbL0tY8X4Bp-oP_WUNr0OQET61h_qGADKr/pub), [Ji Eun](https://docs.google.com/presentation/d/e/2PACX-1vQA0XjPKl4trDTnz16CZADVD5RYd0MXvZcsKiimBqyP4r4O2l2StqAplq41i8j7ZqcZaG-9DkSLIWcP/pub) |
 | | Feedback on project ideas |
 
 ### Week 10: Habit
 
 | Monday Mar 26 | Wednesday Mar 28 |
 |:--- | :--- |
-| Demo: [Prototyping with Input/Output Devices](https://www.youtube.com/watch?v=ziX64gwvcH8) | Research presentation: Harry |
+| Demo: [Prototyping with Input/Output Devices](https://www.youtube.com/watch?v=ziX64gwvcH8) | Research presentation: [Harry](https://docs.google.com/presentation/d/e/2PACX-1vRaulkpCNuKLvouOVtzbDB-z7DB-NyOgiIUDHiiRgU8y_tumV_MoPkbY9s3GUy546F0t0CGFoOnsCrs/pub) |
 | Work on Projects | Work on Projects
 
 ### Week 11: Temporality
