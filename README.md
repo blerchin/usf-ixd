@@ -174,30 +174,31 @@ All assigments are due at the start of class.
 
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
-| Work on Projects | **DUE: Project 2: Critical Objects** |
-| | Research presentation: Ishmal |
-
-## Unit C: User Research & UX Design
+| Work on Projects | Work on Projects |
+| Soldering Demo | Research presentation: Ishmal |
 
 ### Week 12: Conversation
 
 | Monday Apr 9 | Wednesday Apr 11 |
 |:--- | :--- |
-| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Carrie |
-| Activity: User Interviews | Introduce Project 3 |
+| Work on Projects | **DUE: Project 2: Critical Objects** |
+|  | Research Presentation: Carrie |
+
+## Unit C: User Research & UX Design
 
 ### Week 13: Embodiment
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach-mapping-experiences.pdf) | Research presentation: Aerin |
-| Demo: Experience mapping | Feedback on project ideas |
-| Activity: Experience Mapping | |
+| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Aerin |
+| Demo: Experience mapping | Introduce Project 3 |
 
 ### Week 14: Immersiveness
 
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
+| [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach-mapping-experiences.pdf) |  |
+| Activity: User Interviews | |
 | Work Time | Research presentation: Julia |
 | | Work Time |
 

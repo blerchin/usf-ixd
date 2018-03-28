@@ -16,7 +16,7 @@ Successful projects might sound like these ones:
 
 ### Timeline
 - **Wednesday March 21** Come to class with notes on your project idea. I will check in with each of you individually. This is your chance to get feedback on your idea, and suggestions for how to implement a prototype.
-- **Wednesday April 4** Projects due. In-class critique.
+- **Wednesday ~~April 4~~ April 11** Projects due. In-class critique.
 
 
 ### Rubric
