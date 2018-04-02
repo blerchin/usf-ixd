@@ -175,7 +175,7 @@ All assigments are due at the start of class.
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
 | Work on Projects | Work on Projects |
-| Soldering Demo | Research presentation: Ishmal |
+| [Soldering Demo](https://learn.adafruit.com/adafruit-guide-excellent-soldering) | Research presentation: Ishmal |
 
 ### Week 12: Conversation
 
