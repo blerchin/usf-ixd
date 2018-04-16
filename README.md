@@ -197,7 +197,7 @@ All assigments are due at the start of class.
 
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
-| [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach-mapping-experiences.pdf) |  |
+| [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach--mapping-experiences) |  |
 | Activity: User Interviews | |
 | Work Time | Research presentation: Julia |
 | | Work Time |
@@ -251,10 +251,13 @@ All assigments are due at the start of class.
 - [Project 1: Reaction](src/projects/reactions)
   - Exercise 1: [Circle Game](src/exercises/blue-circle)
   - Exercise 2, [Eloquent CoffeeScript](src/exercises/eloquent-coffee-ch02.md)
+  - [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
+  - [Activity: Mini Sprint](src/activities/mini-sprint)
 - [Project 2: Critical Objects](src/projects/critical-objects)
+  - [Activity: Extreme Personas](src/activities/extreme-personas)
   - Exercise 3: [Electronics Lab](src/exercises/electronics-intro)
-- [Activity: Interaction Relabelling](src/activities/interaction-relabelling/index.md)
-- [Activity: Mini Sprint](src/activities/mini-sprint)
+- Project 3: Pitch Deck
+  - [Activity: Extreme Interviews](src/activities/extreme-interviews)
 
 
 ## Code Standards
