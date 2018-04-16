@@ -38,3 +38,6 @@ Refer back to About Face Ch. 5 on guidance for how to write the personas.
 
 ### Present (20 minutes)
 Share the profiles you wrote and discuss with the class.
+
+## Results
+[![](interview-insights.jpg)](interview-insights.jpg)
