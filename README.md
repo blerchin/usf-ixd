@@ -190,8 +190,8 @@ All assigments are due at the start of class.
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Aerin |
-| Demo: Experience mapping | Introduce Project 3 |
+| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Aerin, Carrie |
+| Activity: [Extreme Interviews](src/activities/extreme-interviews) | Introduce Project 3 |
 
 ### Week 14: Immersiveness
 
