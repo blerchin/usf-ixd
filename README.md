@@ -198,22 +198,22 @@ All assigments are due at the start of class.
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
 | [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach--mapping-experiences) |  |
-| Activity: User Interviews | |
-| Work Time | Research presentation: Julia |
-| | Work Time |
+| Activity: User Interviews | Research presentation: Julia |
+| Work Time | Work Time |
 
 ### Week 15: Tactics
 
 | Monday Apr 30 | Wednesday May 2 |
 | :--- | :--- |
+| **DUE:** User Research |  |
+| Photo workshop | Photo workshop |
 | Work Time | Work Time |
-|      |      |
 
 ### Week 16: Scale
 
 | Monday May 7 | Wednesday May 9 |
 | :--- | :--- |
-| Work Time | **DUE: Final Projects** |
+| Work Time | **DUE: Pitch Decks** |
 | | Final Critique |
 
 ## Demos
