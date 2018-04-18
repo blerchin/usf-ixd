@@ -47,6 +47,7 @@ If possible, incorporate direct quotes from your interviews into the persona doc
 
 #### Experience Map
 This option involves a bit more imagination and hypothesis, since you likely won't have time to do interviews _and_ a map. We'll go over how to make an experience map in class. You can model yours after any of the styles shown in _Experience Mapping_. Explain the ideal experience of using your product and how it addresses any shortcomings of existing offerings. Print your map out as an 11x17 or larger poster.
+Also check out this guide from Adaptive Path: <http://www.mappingexperiences.com/>
 
 #### Note:
 Whichever format you choose, please print it and bring to class on April 30th.
