@@ -191,7 +191,7 @@ All assigments are due at the start of class.
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
 | [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Aerin, Carrie |
-| Activity: [Extreme Interviews](src/activities/extreme-interviews) | Introduce Project 3 |
+| Activity: [Extreme Interviews](src/activities/extreme-interviews) | [Introduce Project 3](src/projects/pitch-deck) |
 
 ### Week 14: Immersiveness
 
@@ -256,7 +256,7 @@ All assigments are due at the start of class.
 - [Project 2: Critical Objects](src/projects/critical-objects)
   - [Activity: Extreme Personas](src/activities/extreme-personas)
   - Exercise 3: [Electronics Lab](src/exercises/electronics-intro)
-- Project 3: Pitch Deck
+- [Project 3: Pitch Deck](src/projects/pitch-deck)
   - [Activity: Extreme Interviews](src/activities/extreme-interviews)
 
 
