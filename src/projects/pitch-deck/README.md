@@ -46,8 +46,7 @@ If possible, incorporate direct quotes from your interviews into the persona doc
 <small><super>*</super> The graphic design leaves a lot to be desired, but the information and layout is very good.</small>
 
 #### Experience Map
-This option involves a bit more imagination and hypothesis, since you likely won't have time to do interviews _and_ a map. We'll go over how to make an experience map in class. You can model yours after any of the styles shown in _Experience Mapping_. Explain the ideal experience of using your product and how it addresses any shortcomings of existing offerings. Print your map out as an 11x17 or larger poster.
-Also check out this guide from Adaptive Path: <http://www.mappingexperiences.com/>
+This option involves a bit more imagination and hypothesis, since you likely won't have time to do interviews _and_ a map. We'll go over how to make an experience map in class. You can model yours after any of the styles shown in _Experience Mapping_. Also check out this guide from Adaptive Path: <http://www.mappingexperiences.com/>. Explain the ideal experience of using your product and how it addresses any shortcomings of existing offerings. Print your map out as an 11x17 or larger poster.
 
 #### Note:
 Whichever format you choose, please print it and bring to class on April 30th.
@@ -58,6 +57,6 @@ Whichever format you choose, please print it and bring to class on April 30th.
 | :--- | :--- | :--- |
 | **User Research** | Turn in either an Experience Map or personas drawn from your interviews, following the guidelines above. | 30 |
 | **Documentation** | Pitch deck includes high quality photography or video demonstrating the use of your product. | 30 |
-| **Slides** | Slide deck is well-organized and researched, shows attention to graphic design, includes images/video and user research. | 30 |
+| **Slides** | Slides are well-organized and researched, show attention to graphic design, include images/video and user research. | 30 |
 | **Presentation** | Verbal presentation to the class shows familiarity with the material, explains how the product works and tells a story. | 10 |
 | | **Total Points** | 100 |
