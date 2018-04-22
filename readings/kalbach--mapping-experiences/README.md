@@ -709,6 +709,135 @@ using the framework outlined in Chapter 2.
 | **Strengths** | Offer a fresh, outward perspective that helps build empathy. Provide insight beyond the relationship with a single organization or brand. |
 | **Weaknesses** | Can be viewed as too abstract by some stakeholders. Detailed diagrams can lead to overanalysis and “mapping overload.” |
 
+
+### Case Study: Workflow Diagrams at LexisNexis
+by Jim Kalbach
+
+LexisNexis is a worldwide provider of legal and professional
+information. While employed there, I led an effort to map the
+workflow of lawyers in four international markets—France, Australia
+and New Zealand, Germany, and Austria.
+
+To secure funding I pitched the idea to senior leaders, who agreed to
+support the research. We decided to start with mid-sized law firms in
+France as the pilot project. After that, I mapped the workflow of
+barristers in Australia and New Zealand, and then of lawyers in small
+firms in Germany and in Austria.
+
+The approach in each country was to follow the lifecycle of a client
+matter from the perspective of the lawyer. We wanted to understand
+the complex series of actions lawyers take to complete a client
+matter, from beginning to end. This was strategically relevant for the
+business at the time.
+
+#### Investigation
+
+In each country, I first collected existing research and looked for
+patterns. For instance, in France some recent segmentation work
+had recently been completed. From this, I was able to get an initial
+understanding of the market and the types of law firms that existed.
+I also spoke with internal stakeholders in each country. This helped
+build an initial picture of an approximate lawyer’s workflow, which in
+turn guided subsequent research.
+
+Of course, there was significant field contact with actual customers.
+We conducted between 10 and 20 on-site interviews in each country.
+The audio of each session was recorded and transcribed, so the full
+text was available for analysis. Photographs provided additional
+context.
+
+#### Illustration
+After investigation, I then created workflow diagrams from all of the
+data collected—both internal and external. I kept the orientation of
+the diagrams horizontal so they could be viewed at eye level during
+the workshops. When printed, each workflow diagram was 10–15
+feet long.
+
+First, I modeled a high-level map of phases of a client matter. This
+was similar, but not exactly the same, in each country. As an
+example, Figure 11-8 shows a simplified version of the main phases
+for legal cases in Germany.
+
+The diagrams included three different types of actors simultaneously:
+lawyers, secretaries, and all other actors in the workflow. As a result,
+they consisted of many rows of information, seen labeled on the left
+side of Figure 11-9.
+
+Pain points and goals are also included, as well as notes on state of
+mind and emotion. Personas, typical workweek charts, and org
+charts accompanied the diagrams for a complete description of the
+lawyer’s experience.
+
+#### Alignment
+A highlight of each effort was the alignment workshop. In each
+country, this allowed stakeholders to understand the workflows and
+arrive at their own conclusions about the experience. These were
+day-long sessions with three sections:
+
+_Understanding the lawyer’s experience:_ Each breakout group
+focused on a section of the workflow and read through all of the
+steps. Through dot voting, the teams were tasked with identifying
+critical moments. Where are the stakes highest? What moments
+are emotionally charged for users? Figure 11-10 reflects a
+diagram from this step during a workshop in France.
+
+_Brainstorming:_ After understanding the experience and where the
+biggest pain points were, the groups came up with new ways to
+support customers in their work. Figure 11-11 shows
+brainstorming in a group of people with mixed roles during a
+workshop in France.
+
+_Group presentations_: Each team selected their leading ideas from
+the brainstorming session and described them in greater detail,
+including sketches of the proposed solutions. These were then
+presented to everyone else in the workshop for feedback and
+questions.
+
+After the workflow mapping projects were completed in the different
+countries, we presented the workflow diagrams at the yearly senior
+staff meeting. Upper managers from all international business units
+flew to Montreux for a series of meetings across three days.
+I helped facilitate further workflow alignment exercises, which
+culminated in a mock trial. Leaders volunteered to play different roles
+in a fake court case.
+
+[![](index-445_1.jpg)](index-445_1.jpg)
+#### FIGURE 11-8. The top-level phases for a lawyer's workflow with a client matter in Germany reflects an end-to-end experience
+
+[![](index-446_1.jpg)](index-446_1.jpg)
+#### FIGURE 11-9. One page from a 20-page workflow diagram illustrates a detailed experience
+
+#### Outcomes
+Internally, the alignment exercises helped gain empathy for our
+customers and build a common understanding of their work. For
+instance, in Australia, one stakeholder commented: “These workflow
+diagrams should be used to onboard new employees.” He felt they
+were foundational in understanding our customers.
+
+Since the diagrams for each country followed a similar format, we
+could compare the practice of law in different markets to see where
+the differences lie.
+
+Concrete offerings also emerged. For example, we launched a new
+format for easily scannable legal news. This came out of a realization
+that lawyers spend a significant amount of time waiting at court and
+could use that time to keep up on news.
+
+In another market, we launched a new solution targeting legal
+assistants—a previously unaddressed market segment. The
+workflow exercises informed this new offering.
+
+Overall, the workflow mapping efforts in each country provided a
+deep view into the daily experience of lawyers. To this day, the work
+is considered a key resource for customer understanding within the
+company.
+
+[![](index-447_1.jpg)](index-447_1.jpg)
+#### FIGURE 11-10. The workshop teams engaged with the workflow diagrams to identify pain points, moments of truth, and business opportunities, among other things.
+
+[![](index-448_1.jpg)](index-448_1.jpg)
+#### FIGURE 11-11. Brainstorming during an alignment workshop involved stakeholders across functions and departments.
+
 ### Diagram and Image Credits
 Figure 11-2: Experience map created by Gene Smith and Trevor von
 Gorp of nForm, taken from “Experience Maps: Understanding CrossChannel
