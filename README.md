@@ -198,7 +198,7 @@ All assigments are due at the start of class.
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
 | [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach--mapping-experiences) |  |
-| Activity: User Interviews | Research presentation: Julia |
+| Activity: [Experience Mapping](src/activities/experience-mapping/watch-cjm.pdf) | Research presentation: Julia |
 | Work Time | Work Time |
 
 ### Week 15: Tactics
