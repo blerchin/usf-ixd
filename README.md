@@ -175,14 +175,13 @@ All assigments are due at the start of class.
 | Monday Apr 2 | Wednesday Apr 4 |
 |:--- | :--- |
 | Work on Projects | Work on Projects |
-| [Soldering Demo](https://learn.adafruit.com/adafruit-guide-excellent-soldering) | Research presentation: Ishmal |
+| [Soldering Demo](https://learn.adafruit.com/adafruit-guide-excellent-soldering) | Research presentation: [Ishmal](https://docs.google.com/presentation/d/e/2PACX-1vSI6-HqkvSwFAorqMW8NzFoddAFnnC5CKmrQhGCoFAYfqu-WlG4Kr9J35SI3W-4UZJUATkPrNw_lQ38/pub?start=false&loop=false&delayms=15000&slide=id.p) |
 
 ### Week 12: Conversation
 
 | Monday Apr 9 | Wednesday Apr 11 |
 |:--- | :--- |
 | Work on Projects | **DUE: Project 2: Critical Objects** |
-|  | Research Presentation: Carrie |
 
 ## Unit C: User Research & UX Design
 
@@ -190,7 +189,7 @@ All assigments are due at the start of class.
 
 | Monday Apr 16 | Wednesday Apr 18 |
 |:--- | :--- |
-| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: Aerin, Carrie |
+| [**DUE: Reading Response, Cooper, _About Face_, Ch. 4-5**](readings/cooper--about-face--pt1.pdf) | Research presentation: [Aerin](https://docs.google.com/a/dons.usfca.edu/presentation/d/e/2PACX-1vRlTDBx9Pjmy42m1GCd0bvwcl_Lubjrcqqn8Td7SoT1BjBM2mAPHFlBRlIUYN47hb0HZr6piGDI8Ac9/pub?start=false&loop=false&delayms=15000), [Carrie](https://docs.google.com/presentation/d/e/2PACX-1vRcP5foHoKv5ATsjNw48JWpb2i6npa64Pd061O955LldKXKiZ8-mI7cVElMiJaq3DAexalBmyDYSgHu/pub?start=true&loop=false&delayms=15000&slide=id.p) |
 | Activity: [Extreme Interviews](src/activities/extreme-interviews) | [Introduce Project 3](src/projects/pitch-deck) |
 
 ### Week 14: Immersiveness
@@ -198,7 +197,7 @@ All assigments are due at the start of class.
 | Monday Apr 23 | Wednesday Apr 25 |
 |:--- | :--- |
 | [**DUE: Reading Response, Kalbach, _Mapping Experience_**](readings/kalbach--mapping-experiences) |  |
-| Activity: [Experience Mapping](src/activities/experience-mapping/watch-cjm.pdf) | Research presentation: Julia |
+| Activity: [Experience Mapping](src/activities/experience-mapping/watch-cjm.pdf) | Research presentation: [Julia](https://docs.google.com/presentation/d/e/2PACX-1vQAtfOopzjIacoqwDm6BYf7K-fIR-Trj_G3QDqn2wimBEwibUYuTjx8_FJM1QNX-sTCtHa2qOG2vsQx/pub?start=true&loop=false&slide=id.p) |
 | Work Time | Work Time |
 
 ### Week 15: Tactics
